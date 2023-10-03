@@ -67,6 +67,6 @@ Since I'm coming from Windows, most of the shortcuts I made were just the same a
 * System Monitor (aka Task Manager) `gnome-system-monitor`- Shift + Ctrl + Esc
 
 ## Credits to
-[u/Steve_Petrov](https://www.reddit.com/user/Steve_Petrov/) for the neofetch config and idea!
-[@Aylur](https://github.com/Aylur) for inspiration and making those awesome widgets!
-[@oae](https://github.com/oae/) for creating the best clipboard software I ever used!
+* [u/Steve_Petrov](https://www.reddit.com/user/Steve_Petrov/) for the neofetch config and idea!
+* [@Aylur](https://github.com/Aylur) for inspiration and making those awesome widgets!
+* [@oae](https://github.com/oae/) for creating the best clipboard software I ever used!
