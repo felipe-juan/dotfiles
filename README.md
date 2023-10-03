@@ -14,13 +14,13 @@ This is my first rice ever! I wanted a pleasing aesthetic appearance, but also w
 * Discord Theme: [Rosé Pine](https://github.com/rose-pine/discord)
 
 ## Visuals-featured Extensions:
-* [QSTweak - Quick Setting Tweaker](https://extensions.gnome.org/extension/5446/quick-settings-tweaker/)
 * [ArcMenu](https://extensions.gnome.org/extension/3628/arcmenu/)
 * [Aylur's Widget](https://extensions.gnome.org/extension/5338/aylurs-widgets/)
 * [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)
 * [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)
 * [Desktop Clock](https://extensions.gnome.org/extension/5156/desktop-clock/)
 * [Just Perfection](https://extensions.gnome.org/extension/3843/just-perfection/)
+* [QSTweak - Quick Setting Tweaker](https://extensions.gnome.org/extension/5446/quick-settings-tweaker/)
 * [Rounded Corners](https://extensions.gnome.org/extension/5237/rounded-window-corners/)
 * [Transparent Window Moving](https://extensions.gnome.org/extension/1446/transparent-window-moving/)
 
