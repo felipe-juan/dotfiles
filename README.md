@@ -7,7 +7,7 @@ This is my first rice ever! I wanted a pleasing aesthetic appearance, but also w
 
 ![](https://github.com/felipe-juan/rosepinegnome/blob/main/assets/datamenu%20-%20media%20plyer%20-%20quick%20settings.png)
 
-![](https://github.com/felipe-juan/rosepinegnome/blob/main/assets/overview.png)
+![](https://github.com/felipe-juan/rosepinegnome/blob/main/assets/overview_nynancat.png)
 
 ![](https://github.com/felipe-juan/rosepinegnome/blob/main/assets/apps%20launcher.png) 
 
