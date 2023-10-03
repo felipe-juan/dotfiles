@@ -4,8 +4,8 @@ This is my first rice ever! I wanted a pleasing aesthetic appearance, but also w
 ## Software Information
 * Desktop Enviroment: GNOME 44.5
 * Shell: bash 5.1.16
-* Terminal: BlackBox
 * Fonts: Roboto Medium / Roboto Mono Regular
++ Terminal: [BlackBox](https://gitlab.gnome.org/raggesilver/blackbox)
 * Shell/GTK Theme: [RosePine-Main-BL](https://github.com/Fausto-Korpsvart/Rose-Pine-GTK-Theme)
 * Icons Theme: [Catppuccin-Mocha](https://github.com/Fausto-Korpsvart/Catppuccin-GTK-Theme)
 * Cursor Theme: [Sunity](https://github.com/alvatip/Sunity-cursors)
