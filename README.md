@@ -1,4 +1,4 @@
-# 🍚 Cooking Gnome
+# 🍚 Cooking GNOME
 This is my first rice ever! I wanted a pleasing aesthetic appearance, but also with a high usability. It may still have some inconsistencies here and there, but its current state is what I could have done without a massive time consuming effort. Feel free to make any suggestions or questions!
 
 ## Software Information
