@@ -1,4 +1,4 @@
-# Rosé Pine Gnome
+# 🍚 Cooking Gnome
 This is my first rice ever! I wanted a pleasing aesthetic appearance, but also with a high usability. It may still have some inconsistencies here and there, but its current state is what I could have done without a massive time consuming effort. Feel free to make any suggestions or questions!
 
 ## Software Information
@@ -67,6 +67,6 @@ Since I'm coming from Windows, most of the shortcuts I made were just the same a
 * System Monitor (aka Task Manager) `gnome-system-monitor`- Shift + Ctrl + Esc
 
 ## Credits to
-* [u/Steve_Petrov](https://www.reddit.com/user/Steve_Petrov/) for the neofetch config and idea!
+* [u/Steve_Petrov](https://www.reddit.com/r/unixporn/comments/z9iz83/gnome_what_a_funky/) for the neofetch config and idea!
 * [@Aylur](https://github.com/Aylur) for inspiration and making those awesome widgets!
 * [@oae](https://github.com/oae/) for creating the best clipboard software I ever used!
