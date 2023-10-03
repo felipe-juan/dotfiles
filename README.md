@@ -9,7 +9,7 @@ This is my first rice ever! I wanted a pleasing aesthetic appearance, but also w
 
 ![](https://github.com/felipe-juan/rosepinegnome/blob/main/assets/overview.png)
 
-![](https://github.com/felipe-juan/rosepinegnome/blob/main/assets/apps%20launch.png)
+![](https://github.com/felipe-juan/rosepinegnome/blob/main/assets/apps%20launcher.png) 
 
 ## Software Information
 * Desktop Enviroment: GNOME 44.5
