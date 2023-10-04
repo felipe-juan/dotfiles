@@ -151,9 +151,9 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 </details>
 
 
----
+## Extra Stuff
 <details>
-<summary><h2>Keyboard Shortcuts</h2></summary>
+<summary><h3>Keyboard Shortcuts</h2></summary>
 Since I'm coming from Windows, most of the shortcuts I made were just the same as they were there. I highly recommend you do the same if you used these shortcuts on Windows too!
 ### Launchers
 * Home Folder - Super + E
@@ -189,7 +189,7 @@ Since I'm coming from Windows, most of the shortcuts I made were just the same a
 
 
 <details>
-<summary><h2>Silly Terminal Commands</h2></summary>
+<summary><h3>Silly Terminal Commands</h2></summary>
 
 * cbonsai
 * pipes.sh
@@ -198,7 +198,7 @@ Since I'm coming from Windows, most of the shortcuts I made were just the same a
 * oneko
 </details>
 
----
+
 ## Credits to
 * [u/Steve_Petrov](https://www.reddit.com/r/unixporn/comments/z9iz83/gnome_what_a_funky/) for the neofetch config and idea!
 * [@Aylur](https://github.com/Aylur) for inspiration and making those awesome widgets!
