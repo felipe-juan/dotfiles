@@ -178,4 +178,4 @@ Since I'm coming from Windows, most of the shortcuts I made were just the same a
 * [@Aylur](https://github.com/Aylur) for inspiration and making those awesome widgets!
 * [@oae](https://github.com/oae/) for creating the best clipboard software I ever used!
 
-<img align="center" width="1000" src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.png">
+<img align="center" width="500" src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.png">
