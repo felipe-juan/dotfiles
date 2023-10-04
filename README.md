@@ -54,6 +54,7 @@ You may have to tweak a lot of the extensions to get the same results, but here 
 
 <details>
 <summary><b>Aylur's Widgets</b></summary>
+
 ![dasdsa](https://github.com/felipe-juan/dotfiles/blob/main/assets/aylur's%20widgets%201.png)
 ![dsads](https://github.com/felipe-juan/dotfiles/blob/main/assets/aylur's%20widgets%202.png)
 ![dsadsa](https://github.com/felipe-juan/dotfiles/blob/main/assets/aylur's%20widgets%203.png)
