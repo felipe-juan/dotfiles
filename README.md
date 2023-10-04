@@ -183,6 +183,7 @@ Since I'm coming from Windows, most of the shortcuts I made were just the same a
 * BlackBox `com.raggesilver.BlackBox` - Ctrl + Alt + T
 * System Monitor (aka Task Manager) `gnome-system-monitor`- Shift + Ctrl + Esc
 
+<details>
 <summary><h2>Silly Terminal Commands </h2></summary>
 
 * cbonsai
