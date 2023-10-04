@@ -20,7 +20,7 @@ It's crucial to change several extensions if you want to achieve the same look, 
 * Fonts: Roboto Medium / Roboto Mono Regular
 + Terminal: [BlackBox](https://gitlab.gnome.org/raggesilver/blackbox)
 * Shell/GTK Theme: [RosePine-Main-BL](https://github.com/Fausto-Korpsvart/Rose-Pine-GTK-Theme)
-* Icons Theme: [Catppuccin-Mocha](https://github.com/Fausto-Korpsvart/Catppuccin-GTK-Theme)
+* Icons Theme: [Catppuccin-Mocha](https://github.com/Fausto-Korpsvart/Catppuccin-GTK-Theme/tree/main/icons)
 * Cursor Theme: [Sunity](https://github.com/alvatip/Sunity-cursors)
 * Terminal Theme: [Rosé Pine](https://github.com/rose-pine/black-box)
 * Gnome Text Editor Theme: [Rosé Pine](https://github.com/Fausto-Korpsvart/Rose-Pine-GTK-Theme/tree/main/extra/text-editor)
