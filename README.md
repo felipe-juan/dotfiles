@@ -2,7 +2,7 @@
   <img width="150" height="150" src="https://raw.githubusercontent.com/rose-pine/rose-pine-theme/main/assets/icon.png">
 </p>
 
-<h1 align="center"🍚 Cooking Gnome 🍚 </h1>
+<h1 align="center">🍚 Cooking Gnome 🍚</h1>
 
 This is my first rice ever! I wanted it to be aesthetically pleasing, but also very usable. It may still have some inconsistencies here and there, however, its current state is what I could have done without a massive time consuming effort. 
 
