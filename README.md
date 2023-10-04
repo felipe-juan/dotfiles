@@ -63,6 +63,7 @@ You may have to tweak a lot of the extensions to get the same results, but here 
 
 <details>
 <summary><b>Blur my Shell</b></summary>
+
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/blur%20my%20shell%201.png)
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/blur%20my%20shell%202.png)
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/blur%20my%20shell%203.png)
@@ -70,23 +71,27 @@ You may have to tweak a lot of the extensions to get the same results, but here 
 
 <details>
 <summary><b>ColorPicker</b></summary>
+
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/color%20picker.png)
 </details>
 
 <details>
 <summary><b>Desktop Clock</b></summary>
+
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/desktop%20widget%201.png)
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/desktop%20widget%202.png)
 </details>
 
 <details>
 <summary><b>Gesture Improvements</b></summary>
+
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/gestures%20improvements%201.png)
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/gestures%20improvements%202.png)
 </details>
 
 <details>
 <summary><b>Just Perfection</b></summary>
+
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/just%20perfection%201.png)
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/just%20perfection%202.png)
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/just%20perfection%203.png)
@@ -95,12 +100,14 @@ You may have to tweak a lot of the extensions to get the same results, but here 
 
 <details>
 <summary><b>Pano - Clipboard Manager</b></summary>
+
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/pano%20-%20clipboard%20manager%201.png)
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/pano%20-%20clipboard%20manager%202.png)
 </details>
 
 <details>
 <summary><b>QSTweaker - Quick Settings</b></summary>
+
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/qstweaker%200.png)
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/qstweaker%201.png)
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/qstwaker%203.png)
@@ -114,18 +121,21 @@ You may have to tweak a lot of the extensions to get the same results, but here 
 
 <details>
 <summary><b>Rounded Window Corners</b></summary>
+
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/rounded%20window%20corners%201.png)
 </details>
 
 
 <details>
 <summary><b>Tiling Assistant</b></summary>
+
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/tiling%20windows%201.png)
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/tiling%20windows%202.png)
 </details>
 
 <details>
 <summary><b>Pop Shell</b></summary>
+
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/pop%20shell%201.png)
 </details>
 
