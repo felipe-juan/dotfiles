@@ -46,9 +46,7 @@ You may have to tweak a lot of the extensions to get the same results, but here 
 <summary><b>Arc Menu</b></summary>
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/arcmenu%201.png)
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/arcmenu%202.png)
-<p align="center">
-  <img src="https://github.com/felipe-juan/felipe-juan/blob/main/knrel3oet9ia1.gif">
-</p>
+<img src="https://github.com/felipe-juan/felipe-juan/blob/main/knrel3oet9ia1.gif">
 </details>
 
 <details>
