@@ -41,7 +41,7 @@ It's crucial to change several extensions if you want to achieve the same look, 
 * [Quick Close in Overview](https://extensions.gnome.org/extension/352/middle-click-to-close-in-overview/)
 
 ## Extension Settings
-If I seem to have left some settings behind, it's because I didn't change them.
+If I seem to have left some settings behind, it's because I didn't change them, and otherwise it would be redundant.
 <details>
 
 <summary><b>Arc Menu</b></summary>
