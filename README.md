@@ -178,6 +178,13 @@ Since I'm coming from Windows, most of the shortcuts I made were just the same a
 * BlackBox `com.raggesilver.BlackBox` - Ctrl + Alt + T
 * System Monitor (aka Task Manager) `gnome-system-monitor`- Shift + Ctrl + Esc
 
+### Silly Terminal Commands
+* cbonsai
+* pipes.sh
+* nyancat
+* cmatrix
+* oneko
+
 ## Credits to
 * [u/Steve_Petrov](https://www.reddit.com/r/unixporn/comments/z9iz83/gnome_what_a_funky/) for the neofetch config and idea!
 * [@Aylur](https://github.com/Aylur) for inspiration and making those awesome widgets!
