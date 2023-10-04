@@ -1,8 +1,8 @@
 <p align="center">
-  <img width="100" height="100" src="https://raw.githubusercontent.com/rose-pine/rose-pine-theme/main/assets/icon.png">
+  <img width="150" height="150" src="https://raw.githubusercontent.com/rose-pine/rose-pine-theme/main/assets/icon.png">
 </p>
 
-# 🍚 Cooking GNOME
+<h1 align="center"🍚 Cooking Gnome 🍚 </h1>
 This is my first rice ever! I wanted it to be aesthetically pleasing, but also very usable. It may still have some inconsistencies here and there, however, its current state is what I could have done without a massive time consuming effort. 
 
 It's crucial to change several extensions if you want to achieve the same look, so please check out the screenshots on **[Extension Settings](https://github.com/felipe-juan/dotfiles/blob/main/README.md#extension-settings)** to see what I've changed. That said, I'd be happy if someone uses my dotfiles!
@@ -94,7 +94,7 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 </details>
 
 <details>
-<summary><b>GNOME Tweaks</b></summary>
+<summary><b>Gnome Tweaks</b></summary>
 
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/gnome%20tweaks.png)
 </details>
