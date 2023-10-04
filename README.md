@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="100" height="100" src="https://raw.githubusercontent.com/rose-pine/rose-pine-theme/main/assets/icon.png">
+</p>
+
 # 🍚 Cooking GNOME
 This is my first rice ever! I wanted it to be aesthetically pleasing, but also very usable. It may still have some inconsistencies here and there, however, its current state is what I could have done without a massive time consuming effort. 
 
