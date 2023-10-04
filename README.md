@@ -49,8 +49,8 @@ You may have to tweak a lot of the extensions to get the same results, but here 
 =======
 </details>
 
-![dasd](https://github.com/felipe-juan/dotfiles/blob/main/assets/arcmenu%201.png)
-![dsadsa](https://github.com/felipe-juan/dotfiles/blob/main/assets/arcmenu%202.png)
+![](https://github.com/felipe-juan/dotfiles/blob/main/assets/arcmenu%201.png)
+![](https://github.com/felipe-juan/dotfiles/blob/main/assets/arcmenu%202.png)
 
 <details>
 <summary><b>Aylur's Widgets</b></summary>
