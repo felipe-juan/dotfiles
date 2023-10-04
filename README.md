@@ -2,7 +2,10 @@
   <img width="150" height="150" src="https://raw.githubusercontent.com/rose-pine/rose-pine-theme/main/assets/icon.png">
 </p>
 
+<p 
 <h1 align="center"🍚 Cooking Gnome 🍚 </h1>
+</p>
+
 This is my first rice ever! I wanted it to be aesthetically pleasing, but also very usable. It may still have some inconsistencies here and there, however, its current state is what I could have done without a massive time consuming effort. 
 
 It's crucial to change several extensions if you want to achieve the same look, so please check out the screenshots on **[Extension Settings](https://github.com/felipe-juan/dotfiles/blob/main/README.md#extension-settings)** to see what I've changed. That said, I'd be happy if someone uses my dotfiles!
