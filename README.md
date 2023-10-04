@@ -150,6 +150,7 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/pop%20shell%201.png)
 </details>
 ---
+
 <details>
 <summary><h2>Keyboard Shortcuts</h2></summary>
 Since I'm coming from Windows, most of the shortcuts I made were just the same as they were there. I highly recommend you do the same if you used these shortcuts on Windows too!
