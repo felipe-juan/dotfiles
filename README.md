@@ -185,6 +185,8 @@ Since I'm coming from Windows, most of the shortcuts I made were just the same a
 * System Monitor (aka Task Manager) `gnome-system-monitor`- Shift + Ctrl + Esc
 </details>
 
+---
+
 <details>
 <summary><h2>Silly Terminal Commands</h2></summary>
 
@@ -194,6 +196,8 @@ Since I'm coming from Windows, most of the shortcuts I made were just the same a
 * cmatrix
 * oneko
 </details>
+
+---
 
 ## Credits to
 * [u/Steve_Petrov](https://www.reddit.com/r/unixporn/comments/z9iz83/gnome_what_a_funky/) for the neofetch config and idea!
