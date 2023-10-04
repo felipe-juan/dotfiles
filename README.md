@@ -2,6 +2,7 @@
 This is my first rice ever! I wanted it to be aesthetically pleasing, but also very usable. It may still have some inconsistencies here and there, however, its current state is what I could have done without a massive time consuming effort. 
 
 You may have to tweak a lot of the extensions to get the same results, but here are all the things I used. It would be a pleasure if someone uses my dotfiles!
+* <summary><b>Pictures</b></summary>
 
 ![](https://github.com/felipe-juan/rosepinegnome/blob/main/assets/average%20unixporn%20post.png)
 ![](https://github.com/felipe-juan/rosepinegnome/blob/main/assets/tiling%20windows%20-%20with%20pop%20shell.png)
