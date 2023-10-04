@@ -44,7 +44,6 @@ You may have to tweak a lot of the extensions to get the same results, but here 
 ### Extensions' Configs(WIP)
 <details>
 <summary><b>Arc Menu</b></summary>
-<<<<<<< HEAD
 ![dasd](https://github.com/felipe-juan/dotfiles/blob/main/assets/arcmenu%201.png)
 ![dsadsa](https://github.com/felipe-juan/dotfiles/blob/main/assets/arcmenu%202.png)
 =======
