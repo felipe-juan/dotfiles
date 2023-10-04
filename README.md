@@ -87,12 +87,12 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/gestures%20improvements%201.png)
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/gestures%20improvements%202.png)
-
 </details>
+
+<details>
 <summary><b>GNOME Tweaks</b></summary>
 
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/gnome%20tweaks.png)
-
 </details>
 
 <details>
