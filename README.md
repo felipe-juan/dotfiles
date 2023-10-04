@@ -44,40 +44,64 @@ You may have to tweak a lot of the extensions to get the same results, but here 
 ### Extensions' Configs(WIP)
 <details>
 <summary><b>Arc Menu</b></summary>
-
+![]()
+![]()
 </details>
+
 <details>
 <summary><b>Aylur's Widgets</b></summary>
-
+![]()
+![]()
 </details>
+
 <details>
 <summary><b>Blur my Shell</b></summary>
-
+![]()
+![]()
 </details>
+
+<details>
+<summary><b>ColorPicker</b></summary>
+![]()
+![]()
+</details>
+
 <details>
 <summary><b>Desktop Clock</b></summary>
-
+![]()
+![]()
 </details>
+
 <details>
 <summary><b>Just Perfection</b></summary>
-
+![]()
+![]()
 </details>
+
 <details>
 <summary><b>QSTweaker - Quick Settings</b></summary>
-
+![]()
+![]()
 </details>
+
 <details>
 <summary><b>Tiling Assistant</b></summary>
-
+![]()
+![]()
 </details>
+
 <details>
 <summary><b>Pano - Clipboard Manager</b></summary>
-
+![]()
+![]()
 </details>
+![]()
+![]()
 
 <details>
 <summary><b>Pop Shell</b></summary>
-
+![]()
+![]()
 </details>
 
 ## Keyboard Shortcuts
