@@ -28,7 +28,7 @@ You may have to tweak a lot of the extensions to get the same results, but here 
 * [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)
 * [Desktop Clock](https://extensions.gnome.org/extension/5156/desktop-clock/)
 * [Just Perfection](https://extensions.gnome.org/extension/3843/just-perfection/)
-* [QSTweak - Quick Setting Tweaker](https://extensions.gnome.org/extension/5446/quick-settings-tweaker/)
+* [QSTweaker - Quick Settings Tweaker](https://extensions.gnome.org/extension/5446/quick-settings-tweaker/)
 * [Rounded Corners](https://extensions.gnome.org/extension/5237/rounded-window-corners/)
 * [Transparent Window Moving](https://extensions.gnome.org/extension/1446/transparent-window-moving/)
 
@@ -40,6 +40,45 @@ You may have to tweak a lot of the extensions to get the same results, but here 
 * [Pano - Clipboard Manager](https://extensions.gnome.org/extension/5278/pano/)
 * [Pop Shell](https://github.com/pop-os/shell)
 * [Quick Close in Overview](https://extensions.gnome.org/extension/352/middle-click-to-close-in-overview/)
+
+### Extensions' Configs(WIP)
+<details>
+<summary><b>Arc Menu</b></summary>
+
+</details>
+<details>
+<summary><b>Aylur's Widgets</b></summary>
+
+</details>
+<details>
+<summary><b>Blur my Shell</b></summary>
+
+</details>
+<details>
+<summary><b>Desktop Clock</b></summary>
+
+</details>
+<details>
+<summary><b>Just Perfection</b></summary>
+
+</details>
+<details>
+<summary><b>QSTweaker - Quick Settings</b></summary>
+
+</details>
+<details>
+<summary><b>Tiling Assistant</b></summary>
+
+</details>
+<details>
+<summary><b>Pano - Clipboard Manager</b></summary>
+
+</details>
+
+<details>
+<summary><b>Pop Shell</b></summary>
+
+</details>
 
 ## Keyboard Shortcuts
 Since I'm coming from Windows, most of the shortcuts I made were just the same as they were there. I highly recommend you do the same if you used these shortcuts on Windows too!
