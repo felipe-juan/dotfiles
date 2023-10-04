@@ -3,10 +3,6 @@ This is my first rice ever! I wanted it to be aesthetically pleasing, but also v
 
 You may have to tweak a lot of the extensions to get the same results, but here are all the things I used. It would be a pleasure if someone uses my dotfiles!
 
-</details>
-* <summary><b>Pictures</b></summary>
-</details>
-
 ![](https://github.com/felipe-juan/rosepinegnome/blob/main/assets/average%20unixporn%20post.png)
 ![](https://github.com/felipe-juan/rosepinegnome/blob/main/assets/tiling%20windows%20-%20with%20pop%20shell.png)
 ![](https://github.com/felipe-juan/rosepinegnome/blob/main/assets/datamenu%20-%20media%20plyer%20-%20quick%20settings.png)
