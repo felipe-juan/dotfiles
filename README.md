@@ -150,6 +150,7 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/pop%20shell%201.png)
 </details>
 
+
 ---
 <details>
 <summary><h2>Keyboard Shortcuts</h2></summary>
