@@ -35,7 +35,6 @@ It's crucial to change several extensions if you want to achieve the same look, 
 ## Usability-featured Extensions
 * [Color Picker](https://extensions.gnome.org/extension/3396/color-picker/)
 * [Gesture Improvements](https://extensions.gnome.org/extension/4245/gesture-improvements/)
-* [Grand Theft Focus](https://extensions.gnome.org/extension/5410/grand-theft-focus/)
 * [Tiling Assistant](https://extensions.gnome.org/extension/3733/tiling-assistant/)
 * [Pano - Clipboard Manager](https://extensions.gnome.org/extension/5278/pano/)
 * [Pop Shell](https://github.com/pop-os/shell)
