@@ -150,7 +150,8 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/pop%20shell%201.png)
 </details>
 
-## Keyboard Shortcuts
+<details>
+<summary><h2>Keyboard Shortcuts</h2></summary>
 Since I'm coming from Windows, most of the shortcuts I made were just the same as they were there. I highly recommend you do the same if you used these shortcuts on Windows too!
 ### Launchers
 * Home Folder - Super + E
@@ -182,9 +183,10 @@ Since I'm coming from Windows, most of the shortcuts I made were just the same a
 ### Custom Shortcuts
 * BlackBox `com.raggesilver.BlackBox` - Ctrl + Alt + T
 * System Monitor (aka Task Manager) `gnome-system-monitor`- Shift + Ctrl + Esc
+</details>
 
 <details>
-<summary><h2>Silly Terminal Commands </h2></summary>
+<summary><h2>Silly Terminal Commands</h2></summary>
 
 * cbonsai
 * pipes.sh
