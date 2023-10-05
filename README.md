@@ -72,9 +72,9 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/blackbox%201.png)
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/blackbox%202.png)
-
 </details>
 
+<details>
 <summary><b>Blur my Shell</b></summary>
 
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/blur%20my%20shell%201.png)
