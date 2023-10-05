@@ -53,6 +53,7 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 
 ![dasd](https://github.com/felipe-juan/dotfiles/blob/main/assets/arcmenu%201.png)
 ![dsadsa](https://github.com/felipe-juan/dotfiles/blob/main/assets/arcmenu%202.png)
+![](https://github.com/felipe-juan/dotfiles/blob/main/assets/arcmenu%203.png)
 
 </details>
 
