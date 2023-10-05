@@ -67,6 +67,7 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 ![dsadsa](https://github.com/felipe-juan/dotfiles/blob/main/assets/aylur's%20widgets%204.png)
 </details>
 
+<details>
 <summary><b>BlackBox</b></summary>
 
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/blackbox%201.png)
