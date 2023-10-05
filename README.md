@@ -72,6 +72,7 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/blackbox%201.png)
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/blackbox%202.png)
+
 </details>
 
 <summary><b>Blur my Shell</b></summary>
