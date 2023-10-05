@@ -45,7 +45,7 @@ It's crucial to change several extensions if you want to achieve the same look, 
 * [Pop Shell](https://github.com/pop-os/shell)
 * [Quick Close in Overview](https://extensions.gnome.org/extension/352/middle-click-to-close-in-overview/)
 
-## Extension Settings
+## Softwares Settings
 If I seem to have left some settings behind, it's because I didn't change them, and otherwise it would be redundant.
 <details>
 
@@ -67,7 +67,12 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 ![dsadsa](https://github.com/felipe-juan/dotfiles/blob/main/assets/aylur's%20widgets%204.png)
 </details>
 
-<details>
+<summary><b>BlackBox</b></summary>
+
+![](https://github.com/felipe-juan/dotfiles/blob/main/assets/blackbox%201.png)
+![](https://github.com/felipe-juan/dotfiles/blob/main/assets/blackbox%202.png)
+</details>
+
 <summary><b>Blur my Shell</b></summary>
 
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/blur%20my%20shell%201.png)
