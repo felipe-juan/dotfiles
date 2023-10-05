@@ -209,7 +209,9 @@ Since I'm coming from Windows, most of the shortcuts I made were just the same a
 
 <details>
 <summary><h3>Smart International Keyboard</h2></summary>
+[Hot to Get a (Better) International Keyboard on Your System](https://github.com/raelgc/win_us_intl)
 
+#### Arch Linux:
 ```
 wget https://raw.githubusercontent.com/raelgc/win_us_intl/master/.XCompose
 gsettings set org.gnome.settings-daemon.plugins.xsettings disabled-gtk-modules '["'keyboard'"]'
