@@ -207,6 +207,24 @@ Since I'm coming from Windows, most of the shortcuts I made were just the same a
 * oneko
 </details>
 
+<details>
+<summary><h3>Smart International Keyboard</h2></summary>
+
+```
+wget https://raw.githubusercontent.com/raelgc/win_us_intl/master/.XCompose
+gsettings set org.gnome.settings-daemon.plugins.xsettings disabled-gtk-modules '["'keyboard'"]'
+git clone https://aur.archlinux.org/packages/uim
+cd uim/
+makepkg -si
+```
+
+> I didn't use any .xprofile
+> I even created one — but this made my computer don't have any “acentos” working at all. So I removed the file and done! Now everything is working fine. 
+
+> And then *Restart Computer* (Logout & Login didn't work for me)
+</details>
+
+
 
 ## Credits to
 * [u/Steve_Petrov](https://www.reddit.com/r/unixporn/comments/z9iz83/gnome_what_a_funky/) for the neofetch config and idea!
