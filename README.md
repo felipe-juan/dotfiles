@@ -38,7 +38,7 @@ It's crucial to change several extensions if you want to achieve the same look, 
 * [Transparent Window Moving](https://extensions.gnome.org/extension/1446/transparent-window-moving/)
 
 ## Usability-featured Extensions
-* [CHC-E - Custom Hot Corners - Extended](https://extensions.gnome.org/extension/4167/custom-hot-corners-extended/)
+* [AATWS - Advanced Alt-Tab Window Switcher](https://extensions.gnome.org/extension/4412/advanced-alttab-window-switcher/)
 * [Color Picker](https://extensions.gnome.org/extension/3396/color-picker/)
 * [Gesture Improvements](https://extensions.gnome.org/extension/4245/gesture-improvements/)
 * [Tiling Assistant](https://extensions.gnome.org/extension/3733/tiling-assistant/)
