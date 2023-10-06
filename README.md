@@ -155,8 +155,7 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 <details>
 <summary><b>Tiling Assistant</b></summary>
 
-![](https://github.com/felipe-juan/dotfiles/blob/main/assets/tiling%20windows%201.png)
-![](https://github.com/felipe-juan/dotfiles/blob/main/assets/tiling%20windows%202.png)
+![](https://github.com/felipe-juan/dotfiles/blob/main/assets/tiling%20assistant%204.png)
 </details>
 
 
