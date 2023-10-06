@@ -217,7 +217,7 @@ Since I'm coming from Windows, most of the shortcuts I made were just the same a
 
 <details>
 <summary><h3>Better International Keyboard</h2></summary>
-[How to Get a (Better) International Keyboard on Your Distro](https://github.com/raelgc/win_us_intl)
+[How to Get a *Better* International Keyboard on Your Distro](https://github.com/raelgc/win_us_intl)
 
 #### Arch Linux:
 ```
