@@ -217,9 +217,9 @@ Since I'm coming from Windows, most of the shortcuts I made were just the same a
 
 <details>
 <summary><h3>Better International Keyboard</h2></summary>
-For context, there is a different behavior than Windows on the international keyboard. To type "acentos", you always have to press a space before the key, even if the next key isn't a vowel. That's why I found the following guide that solves this problem:
-https://github.com/raelgc/win_us_intl
-</b>
+  
+For context, there is a different behavior than Windows on the international keyboard. To type "acentos", you always have to press a space before the key, even if the next key isn't a vowel. That's why I found [this guide](https://github.com/raelgc/win_us_intl) that solves the problem.
+
 To be honest, I ignored both `Try enabling ISO-8859-1` and `Try enabling ISO-8859-1` and went straight to the Arch Linux section. So I probably did more unnecessary steps to get this to work, while I could just run fewer commands. 🤡
 
 However, it worked for me too, although I had to change a few things:
