@@ -8,11 +8,11 @@ This is my first rice ever! I wanted it to be aesthetically pleasing, but also v
 
 It's crucial to change several extensions if you want to achieve the same look, so please check out the screenshots on **[Extension Settings](https://github.com/felipe-juan/dotfiles/blob/main/README.md#extension-settings)** to see what I've changed. That said, I'd be happy if someone uses my dotfiles!
 
-![](https://github.com/felipe-juan/rosepinegnome/blob/main/assets/average%20unixporn%20post.png)
-![](https://github.com/felipe-juan/rosepinegnome/blob/main/assets/tiling%20windows%20-%20with%20pop%20shell.png)
-![](https://github.com/felipe-juan/rosepinegnome/blob/main/assets/datamenu%20-%20media%20plyer%20-%20quick%20settings.png)
-![](https://github.com/felipe-juan/rosepinegnome/blob/main/assets/overview_nyancat.png)
-![](https://github.com/felipe-juan/rosepinegnome/blob/main/assets/apps%20launcher.png) 
+!()[https://github.com/felipe-juan/dotfiles/blob/main/assets/desktop.png]
+!()[https://github.com/felipe-juan/dotfiles/blob/main/assets/widgets.png]
+!()[https://github.com/felipe-juan/dotfiles/blob/main/assets/multitasking.png]
+!()[https://github.com/felipe-juan/dotfiles/blob/main/assets/taskview.png]
+!()[https://github.com/felipe-juan/dotfiles/blob/main/assets/app_dash.png]
 
 ## Software Information
 * Desktop Enviroment: GNOME 44.5
