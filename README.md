@@ -32,6 +32,7 @@ It's crucial to change several extensions if you want to achieve the same look, 
 * [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)
 * [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)
 * [Desktop Clock](https://extensions.gnome.org/extension/5156/desktop-clock/)
+* [Gnome 4x UI Improvements](https://extensions.gnome.org/extension/4158/gnome-40-ui-improvements/)
 * [Just Perfection](https://extensions.gnome.org/extension/3843/just-perfection/)
 * [QSTweaker - Quick Settings Tweaker](https://extensions.gnome.org/extension/5446/quick-settings-tweaker/)
 * [Rounded Corners](https://extensions.gnome.org/extension/5237/rounded-window-corners/)
@@ -102,6 +103,13 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/gestures%20improvements%201.png)
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/gestures%20improvements%202.png)
 </details>
+
+<details>
+<summary><b>Gnome 4x UI Improvements</b></summary>
+
+![](h)
+</details>
+
 
 <details>
 <summary><b>Gnome Tweaks</b></summary>
