@@ -107,7 +107,7 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 <details>
 <summary><b>Gnome 4x UI Improvements</b></summary>
 
-![](h)
+![](https://github.com/felipe-juan/dotfiles/blob/main/assets/gnome%204x.png)
 </details>
 
 
