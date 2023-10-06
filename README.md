@@ -86,7 +86,7 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 <details>
 <summary><b>CHC-E - Custom Hot Corners - Extended</b></summary>
 
-![](https://extensions.gnome.org/extension/4167/custom-hot-corners-extended/)
+![](https://github.com/felipe-juan/dotfiles/blob/main/assets/custom%20hot%20corners.png)
 </details>
 
 <details>
