@@ -173,31 +173,31 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 Since I'm coming from Windows, most of the shortcuts I made were just the same as they were there. I highly recommend you do the same if you used these shortcuts on Windows too!
   
 ### Launchers
-* Home Folder - Super + E
-* Launch Email Cliente - Disabled
+* `Home Folder` - Super + E
+* `Launch Email Client` - Disabled
 
 ### Navigate Applications and Windows
-* Switch Focus to Window - Disabled (all of them)
+* `Switch Focus to Window` - Disabled (all of them)
 
 ### Navigation
-* Hide All Normal Windows - Super + D
-* Switch Applications - Disabled
-* Switch Windows - Alt + Tab
+* `Hide All Normal Windows` - Super + D
+* `Switch Applications` - Disabled
+* `Switch Windows` - Alt + Tab
 
 ### Screenshots
-* Record a Screencast Interactively - Shift + Super + R
-* Take a Screenshot (Fullscreen) - Shift + Super + F
-* Take a Screenshot Interactively - Shift + Super + G
-* Take a Screenshot of a Window - Shift + Super + W
+* `Record a Screencast Interactively` - Shift + Super + R
+* `Take a Screenshot (Fullscreen)` - Shift + Super + F
+* `Take a Screenshot Interactively` - Shift + Super + G
+* `Take a Screenshot of a Window` - Shift + Super + W
 
 ### System
-* Lock screen - Super + L
-* Show All Apps - Disabled
-* Show the Overview - Super + Tab
+* `Lock screen` - Super + L
+* `Show All Apps` - Disabled
+* `Show the Overview` - Super + Tab
 
 ### Windows
-* Hide Window - Super + Down
-* Toggle Maximization State - Super + Up
+* `Hide Window` - Super + Down
+* `Toggle Maximization State` - Super + Up
 
 ### Custom Shortcuts
 * BlackBox `com.raggesilver.BlackBox` - Ctrl + Alt + T
