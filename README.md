@@ -217,8 +217,12 @@ Since I'm coming from Windows, most of the shortcuts I made were just the same a
 
 <details>
 <summary><h3>Better International Keyboard</h2></summary>
-[How to Get a *Better* International Keyboard on Your Distro](https://github.com/raelgc/win_us_intl)
+For context, there is a different behavior than Windows on the international keyboard. To type "acentos", you always have to press a space before the key, even if the next key isn't a vowel. That's why I found the following guide that solves this problem:
+https://github.com/raelgc/win_us_intl
 
+To be honest, I ignored both `Try enabling ISO-8859-1` and `Try enabling ISO-8859-1` and went straight to the Arch Linux section. So I probably did more unnecessary steps to get this to work, while I could just run fewer commands. 🤡
+
+However, it worked for me too, although I had to change a few things:
 #### Arch Linux:
 ```
 wget https://raw.githubusercontent.com/raelgc/win_us_intl/master/.XCompose
@@ -228,9 +232,7 @@ cd uim/
 makepkg -si
 ```
 
-> I didn't use any .xprofile
-> I even created one — but this made my computer don't have any “acentos” working at all. So I removed the file and done! Now everything is working fine. 
-
+> I didn't use any .xprofile - though I even created one —  this made my computer having any “acentos” working at all. So I removed the file and done! Now everything is working fine. 
 > And then *Restart Computer* (Logout & Login didn't work for me)
 </details>
 
