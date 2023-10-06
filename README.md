@@ -86,7 +86,7 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 <details>
 <summary><b>CHC-E - Custom Hot Corners - Extended</b></summary>
 
-![](https://github.com/felipe-juan/dotfiles/blob/main/assets/custom%20hot%20corners.png)
+![](https://github.com/felipe-juan/dotfiles/blob/main/assets/custom%20hot%20corners%201.png)
 </details>
 
 <details>
@@ -216,8 +216,8 @@ Since I'm coming from Windows, most of the shortcuts I made were just the same a
 </details>
 
 <details>
-<summary><h3>Smart International Keyboard</h2></summary>
-[Hot to Get a (Better) International Keyboard on Your System](https://github.com/raelgc/win_us_intl)
+<summary><h3>Better International Keyboard</h2></summary>
+[Hot to Get a (Better) International Keyboard on Your Distro](https://github.com/raelgc/win_us_intl)
 
 #### Arch Linux:
 ```
