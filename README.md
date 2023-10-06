@@ -38,6 +38,7 @@ It's crucial to change several extensions if you want to achieve the same look, 
 * [Transparent Window Moving](https://extensions.gnome.org/extension/1446/transparent-window-moving/)
 
 ## Usability-featured Extensions
+* [CHC-E - Custom Hot Corners - Extended](https://extensions.gnome.org/extension/4167/custom-hot-corners-extended/)
 * [Color Picker](https://extensions.gnome.org/extension/3396/color-picker/)
 * [Gesture Improvements](https://extensions.gnome.org/extension/4245/gesture-improvements/)
 * [Tiling Assistant](https://extensions.gnome.org/extension/3733/tiling-assistant/)
@@ -83,10 +84,17 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 </details>
 
 <details>
+<summary><b>CHC-E - Custom Hot Corners - Extended</b></summary>
+
+![](https://extensions.gnome.org/extension/4167/custom-hot-corners-extended/)
+</details>
+
+<details>
 <summary><b>ColorPicker</b></summary>
 
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/color%20picker.png)
 </details>
+
 
 <details>
 <summary><b>Desktop Clock</b></summary>
@@ -125,6 +133,12 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 </details>
 
 <details>
+<summary><b>Pop Shell</b></summary>
+
+![](https://github.com/felipe-juan/dotfiles/blob/main/assets/pop%20shell%201.png)
+</details>
+
+<details>
 <summary><b>QSTweaker - Quick Settings</b></summary>
 
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/qstweaker%200.png)
@@ -150,12 +164,6 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/tiling%20windows%201.png)
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/tiling%20windows%202.png)
-</details>
-
-<details>
-<summary><b>Pop Shell</b></summary>
-
-![](https://github.com/felipe-juan/dotfiles/blob/main/assets/pop%20shell%201.png)
 </details>
 
 
