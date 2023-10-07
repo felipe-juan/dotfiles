@@ -250,6 +250,7 @@ makepkg -si
 * Extension Manager (Matthew Jakeman)
 * [FireFox Nightly](https://github.com/Linux-Is-Best/Firefox-automatic-install-for-Linux)
 * Foliarte
+* Footage
 * KDE Connect
 * Obsidian
 * [onedriver](https://github.com/jstaf/onedriver)
