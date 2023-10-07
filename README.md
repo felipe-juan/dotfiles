@@ -209,6 +209,7 @@ Since I'm coming from Windows, most of the shortcuts I made were just the same a
 <summary><h3>Silly Terminal Commands</h2></summary>
 
 * [asciiquarium](https://github.com/cmatsuoka/asciiquarium)
+* [cava](https://github.com/karlstav/cava)
 * [cbonsai](https://github.com/hortinstein/cbonsai)
 * [cmatrix](https://github.com/abishekvashok/cmatrix)
 * [lavat](https://github.com/AngelJumbo/lavat)
