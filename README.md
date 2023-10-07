@@ -224,8 +224,7 @@ For context, there is a different behavior than Windows on the international key
 
 To be honest, I ignored both `Try enabling ISO-8859-1` and `Try enabling ISO-8859-1` and went straight to the Arch Linux section. So I probably did more unnecessary steps to get this to work, while I could just run fewer commands. 🤡
 
-However, it worked for me too, although I had to change a few things:
-#### Arch Linux:
+However, it worked for me too, although I had to change a few things (Arch Linux):
 ```
 wget https://raw.githubusercontent.com/raelgc/win_us_intl/master/.XCompose
 gsettings set org.gnome.settings-daemon.plugins.xsettings disabled-gtk-modules '["'keyboard'"]'
