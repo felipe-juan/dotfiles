@@ -22,10 +22,10 @@ It's crucial to change several extensions if you want to achieve the same look, 
 * Shell/GTK Theme: [RosePine-Main-BL](https://github.com/Fausto-Korpsvart/Rose-Pine-GTK-Theme)
 * Icons Theme: [Catppuccin-Mocha](https://github.com/Fausto-Korpsvart/Catppuccin-GTK-Theme/tree/main/icons)
 * Cursor Theme: [Sunity](https://github.com/alvatip/Sunity-cursors)
-* [`BlackBox` - Rosé Pine](https://github.com/rose-pine/black-box)
-* [`Gnome Text Editor` - Rosé Pine](https://github.com/Fausto-Korpsvart/Rose-Pine-GTK-Theme/tree/main/extra/text-editor)
-* [`Discord` - Rosé Pine](https://github.com/rose-pine/discord)
-* [`btop` - Rosé Pine](https://github.com/rose-pine/btop)
+* `BlackBox` - [Rosé Pine](https://github.com/rose-pine/black-box)
+* `Gnome Text Editor` - [Rosé Pine](https://github.com/Fausto-Korpsvart/Rose-Pine-GTK-Theme/tree/main/extra/text-editor)
+* `Discord` - [Rosé Pine](https://github.com/rose-pine/discord)
+* `btop` - [Rosé Pine](https://github.com/rose-pine/btop)
 
 ## Visuals-featured Extensions:
 * [ArcMenu](https://extensions.gnome.org/extension/3628/arcmenu/)
