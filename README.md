@@ -27,7 +27,7 @@ It's crucial to change several extensions if you want to achieve the same look, 
 * `Discord` - [Rosé Pine](https://github.com/rose-pine/discord)
 * `btop` - [Rosé Pine](https://github.com/rose-pine/btop)
 
-## Visuals-featured Extensions:
+## Visuals-featured Extensions
 * [ArcMenu](https://extensions.gnome.org/extension/3628/arcmenu/)
 * [Aylur's Widget](https://extensions.gnome.org/extension/5338/aylurs-widgets/)
 * [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)
