@@ -18,7 +18,7 @@ It's crucial to change several extensions if you want to achieve the same look, 
 * Desktop Enviroment: GNOME 44.5
 * Shell: bash 5.1.16
 * Fonts: Roboto Medium / Roboto Mono Regular
-+ Terminal: [BlackBox](https://gitlab.gnome.org/raggesilver/blackbox)
+* Terminal: [BlackBox](https://gitlab.gnome.org/raggesilver/blackbox)
 * Shell/GTK Theme: [RosePine-Main-BL](https://github.com/Fausto-Korpsvart/Rose-Pine-GTK-Theme)
 * Icons Theme: [Catppuccin-Mocha](https://github.com/Fausto-Korpsvart/Catppuccin-GTK-Theme/tree/main/icons)
 * Cursor Theme: [Sunity](https://github.com/alvatip/Sunity-cursors)
@@ -236,6 +236,26 @@ makepkg -si
 
 > I didn't use any .xprofile - though I even created one —  this made my computer having any “acentos” working at all. So I removed the file and done! Now everything is working fine. 
 > And then *Restart Computer* (Logout & Login didn't work for me)
+</details>
+
+<details>
+<summary><h3>Personal Applications List</h2></summary>
+
+* Anki
+* BetterDiscord 
+* BlackBox 
+* Discord 
+* Extension Manager (Matthew Jakeman)
+* [FireFox Nightly](https://github.com/Linux-Is-Best/Firefox-automatic-install-for-Linux)
+* Foliarte
+* KDE Connect
+* Obsidian
+* [onedriver](https://github.com/jstaf/onedriver)
+* OnlyOffice
+* SyncThing GTK
+* TickTick
+* Tweaks
+* `yay`
 </details>
 
 
