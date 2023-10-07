@@ -233,7 +233,7 @@ git clone https://aur.archlinux.org/packages/uim
 cd uim/
 makepkg -si
 ```
-
+> [!IMPORTANT]  
 > I didn't use any .xprofile - though I even created one —  this made my computer having any “acentos” working at all. So I removed the file and done! Now everything is working fine. 
 > And then *Restart Computer* (Logout & Login didn't work for me)
 </details>
