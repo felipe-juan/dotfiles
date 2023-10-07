@@ -11,8 +11,8 @@ It's crucial to change several extensions if you want to achieve the same look, 
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/desktop.png)
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/widgets_1.png)
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/multitasking.png)
-![](https://github.com/felipe-juan/dotfiles/blob/main/assets/taskview.png)
-![](https://github.com/felipe-juan/dotfiles/blob/main/assets/app_dash.png)
+![](https://github.com/felipe-juan/dotfiles/blob/main/assets/overviewu.png)
+![](https://github.com/felipe-juan/dotfiles/blob/main/assets/app%20dashu.png)
 
 ## Software Information
 * Desktop Enviroment: GNOME 44.5
@@ -107,7 +107,7 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 <details>
 <summary><b>Gnome 4x UI Improvements</b></summary>
 
-![](https://github.com/felipe-juan/dotfiles/blob/main/assets/gnome%204x.png)
+![](https://github.com/felipe-juan/dotfiles/blob/main/assets/gnome%204xx.png)
 </details>
 
 
