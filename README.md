@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img width="150" height="150" src="https://raw.githubusercontent.com/rose-pine/rose-pine-theme/main/assets/icon.png">
 </p>
 
@@ -10,7 +10,9 @@ It's crucial to change several extensions if you want to achieve the same look, 
 
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/desktop.png)
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/widgetsss.png)
-![](https://github.com/felipe-juan/dotfiles/blob/main/assets/video(1).gif)
+<p align="left">
+  <img width="1920" height="1080" src="https://github.com/felipe-juan/dotfiles/blob/main/assets/video(1).gif)">
+</p>
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/overviewu.png)
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/app%20dashu.png)
 
