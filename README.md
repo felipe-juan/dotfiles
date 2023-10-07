@@ -208,13 +208,13 @@ Since I'm coming from Windows, most of the shortcuts I made were just the same a
 <details>
 <summary><h3>Silly Terminal Commands</h2></summary>
 
-* asciiquarium
-* cbonsai
-* cmatrix
-* lavat
-* nyancat
-* pipes.sh
-* oneko
+* [asciiquarium](https://github.com/cmatsuoka/asciiquarium)
+* [cbonsai](https://github.com/hortinstein/cbonsai)
+* [cmatrix](https://github.com/abishekvashok/cmatrix)
+* [lavat](https://github.com/AngelJumbo/lavat)
+* [nyancat](https://github.com/klange/nyancat)
+* [pipes.sh](https://github.com/pipeseroni/pipes.sh)
+* [oneko](https://github.com/glreno/oneko)
 </details>
 
 <details>
