@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <img width="150" height="150" src="https://raw.githubusercontent.com/rose-pine/rose-pine-theme/main/assets/icon.png">
 </p>
 
