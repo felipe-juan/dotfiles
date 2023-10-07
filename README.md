@@ -208,10 +208,12 @@ Since I'm coming from Windows, most of the shortcuts I made were just the same a
 <details>
 <summary><h3>Silly Terminal Commands</h2></summary>
 
+* asciiquarium
 * cbonsai
-* pipes.sh
-* nyancat
 * cmatrix
+* lavat
+* nyancat
+* pipes.sh
 * oneko
 </details>
 
