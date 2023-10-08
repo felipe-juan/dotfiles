@@ -179,7 +179,8 @@ Since I'm coming from Windows, most of the shortcuts I made were just the same a
 
 ### System
 * `Lock screen` - Super + L
-* `Show All Apps` - Disabled
+* `Show All Apps` - Super + A
+* `Show the notification list`- Super + V
 * `Show the Overview` - Super + Tab
 
 ### Windows
