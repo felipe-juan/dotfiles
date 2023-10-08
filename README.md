@@ -257,12 +257,11 @@ After that, I would recommend to change the following configs, because the defau
 * Footage
 * KDE Connect
 * Obsidian
-* [onedriver](https://github.com/jstaf/onedriver)
+* onedriver
 * OnlyOffice
 * SyncThing GTK
 * TickTick
 * Tweaks
-* `yay`
 </details>
 
 ## Credits to
