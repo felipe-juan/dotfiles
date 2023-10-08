@@ -208,7 +208,7 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 </details>
 
 <details>
-<summary><h3>Silly Terminal Commands</h2></summary>
+<summary><h3>Cool Terminal Commands</h2></summary>
 
 * [asciiquarium](https://github.com/cmatsuoka/asciiquarium)
 * [btop](https://github.com/aristocratos/btop)
