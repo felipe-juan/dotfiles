@@ -4,6 +4,7 @@
 
 <h1 align="center">🍚 Cooking GNOME 🍚</h1>
 
+### Introduction
 This is my first rice ever! I wanted it to be aesthetically pleasing, but also very usable. It may still have some inconsistencies here and there. However, its current state is what I could have done without a massive time consuming effort. 
 
 I chose GNOME as my desktop environment because - while KDE definitely has some basic features out of the box that I always use - after a little setup it provides _me_ a better experience and I don't miss almost anything (KDE widgets are still awesome, though). 
