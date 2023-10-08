@@ -161,55 +161,50 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 <summary><h3>Keyboard Shortcuts</h2></summary>
 Since I'm coming from Windows, most of the shortcuts I made were just the same as they were there. I highly recommend you do the same if you used these shortcuts on Windows too!
 
-| | |
+| Launchers| Shortcuts|
 |---|---|
-|`Home Folder` | <kbd>Super</kbd> + <kbd>E</kbd>|
-| `Launch Email Client`| `Disabled`|
-| `Switch Focus to Window`  |`Disabled (all of them)`  |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
+|Home Folder | <kbd>Super</kbd> + <kbd>E</kbd>|
+| Launch Email Client| `Disabled`|
 
-### Launchers
-*  - 
-*  - 
+| Navigate Applications and Windows| Shortcuts |
+|---|---|
+| Switch Focus to Window  |`Disabled (all of them)`  |
 
-### Navigate Applications and Windows
-* 
+|Navigation| Shortcuts |
+|---|---|
+| Hide All Normal Windows  |<kbd>Super</kbd> + <kbd>D</kbd>  |
 
-### Navigation
-* `Hide All Normal Windows` - <kbd>Super</kbd> + <kbd>D</kbd>
-* `Switch Applications` - `Disabled`
-* `Switch Windows` - <kbd>Alt</kbd> + <kbd>Tab</kbd>
+| Navigate Applications and Windows| Shortcuts |
+|---|---|
+| Switch Focus to Window  |`Disabled (all of them)`  |
+| Switch Applications |`Disabled`|
+| Switch Windows |<kbd>Alt</kbd> + <kbd>Tab</kbd>  |
 
-### Screenshots
-* `Record a Screencast Interactively` - <kbd>Shift</kbd> + <kbd>Super</kbd> + <kbd>R</kbd>
-* `Take a Screenshot (Fullscreen)` - <kbd>Shift</kbd> + <kbd>Super</kbd> + <kbd>F</kbd>
-* `Take a Screenshot Interactively` - <kbd>Shift</kbd> + <kbd>Super</kbd> + <kbd>G</kbd>
-* `Take a Screenshot of a Window` - <kbd>Shift</kbd> + <kbd>Super</kbd> + <kbd>W</kbd>
 
-### System
-* `Lock screen` - <kbd>Super</kbd> + <kbd>L</kbd>
-* `Show All Apps` - <kbd>Super</kbd> + <kbd>A</kbd>
-* `Show the notification list`- <kbd>Super</kbd> + <kbd>V</kbd>
-* `Show the Overview` - <kbd>Super</kbd> + <kbd>Tab</kbd>
+| Screenshots| Shortcuts |
+|---|---|
+| Record a Screencast Interactively  |<kbd>Shift</kbd> + <kbd>Super</kbd> + <kbd>R</kbd> |
+| Take a Screenshot (Fullscreen)| <kbd>Shift</kbd> + <kbd>Super</kbd> + <kbd>F</kbd>|
+| Take a Screenshot Interactively| <kbd>Shift</kbd> + <kbd>Super</kbd> + <kbd>F</kbd>|
+| Take a Screenshot of a Window| <kbd>Shift</kbd> + <kbd>Super</kbd> + <kbd>W</kbd>|
 
-### Windows
-* `Hide Window` - <kbd>Super</kbd> + <kbd>Down</kbd>
-* `Toggle Maximization State` - <kbd>Super</kbd> + <kbd>Up</kbd>
+|System|Shortcuts|
+|---|---|
+|Lock screen | <kbd>Super</kbd> + <kbd>L</kbd> |
+|Show All Apps| <kbd>Super</kbd> + <kbd>A</kbd> |
+|Show the notification list | <kbd>Super</kbd> + <kbd>V</kbd> |
+|Show the Overview | <kbd>Super</kbd> + <kbd>Tab</kbd> |
 
-### Custom Shortcuts
-* BlackBox `com.raggesilver.BlackBox` - <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>
-* System Monitor (aka Task Manager) `gnome-system-monitor`- <kbd>Shift</kbd> + <kbd>Ctrl</kbd> + <kbd>Esc</kbd>
+| Windows | Shortcuts |
+|---|---|
+|Hide Window| <kbd>Super</kbd> + <kbd>Down</kbd>|
+|Toggle Maximization State|<kbd>Super</kbd> + <kbd>Up</kbd>|
+
+|Custom|Shortcuts|
+|---|---|
+|BlackBox `com.raggesilver.BlackBox` | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd> |
+|System Monitor (aka Task Manager) `gnome-system-monitor` | <kbd>Shift</kbd> + <kbd>Ctrl</kbd> + <kbd>Esc</kbd>|
 </details>
-
 
 <details>
 <summary><h3>Silly Terminal Commands</h2></summary>
