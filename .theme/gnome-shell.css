@@ -2842,8 +2842,8 @@ background-color: #191724;
 
 .quick-toggle {
   border-radius: 16px;
-  min-width: 12em;
-  max-width: 12em;
+  min-width: 6em;
+  max-width: 6em;
   min-height: 40px;
   border: none;
   border: 1px solid rgba(224, 222, 244, 0.2);
