@@ -1,0 +1,25 @@
+{
+  "name": "Rosé Pine",
+  "comment": "Ported for Back Box Colour Scheme",
+  "use-theme-colors": false,
+  "foreground-color": "rgb(224,222,244)",
+  "background-color": "rgb(25,23,36)",
+  "palette": [
+    "rgb(38,35,58)",
+    "rgb(235,111,146)",
+    "rgb(49,116,143)",
+    "rgb(246,193,119)",
+    "rgb(156,207,216)",
+    "rgb(196,167,231)",
+    "rgb(235,188,186)",
+    "rgb(224,222,244)",
+    "rgb(110,106,134)",
+    "rgb(235,111,146)",
+    "rgb(49,116,143)",
+    "rgb(246,193,119)",
+    "rgb(156,207,216)",
+    "rgb(196,167,231)",
+    "rgb(235,188,186)",
+    "rgb(224,222,244)"
+  ]
+}
