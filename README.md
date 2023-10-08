@@ -160,38 +160,54 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 <details>
 <summary><h3>Keyboard Shortcuts</h2></summary>
 Since I'm coming from Windows, most of the shortcuts I made were just the same as they were there. I highly recommend you do the same if you used these shortcuts on Windows too!
-  
+
+| | |
+|---|---|
+|`Home Folder` | <kbd>Super</kbd> + <kbd>E</kbd>|
+| `Launch Email Client`| `Disabled`|
+| `Switch Focus to Window`  |`Disabled (all of them)`  |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+
 ### Launchers
-* `Home Folder` - Super + E
-* `Launch Email Client` - Disabled
+*  - 
+*  - 
 
 ### Navigate Applications and Windows
-* `Switch Focus to Window` - Disabled (all of them)
+* 
 
 ### Navigation
-* `Hide All Normal Windows` - Super + D
-* `Switch Applications` - Disabled
-* `Switch Windows` - Alt + Tab
+* `Hide All Normal Windows` - <kbd>Super</kbd> + <kbd>D</kbd>
+* `Switch Applications` - `Disabled`
+* `Switch Windows` - <kbd>Alt</kbd> + <kbd>Tab</kbd>
 
 ### Screenshots
-* `Record a Screencast Interactively` - Shift + Super + R
-* `Take a Screenshot (Fullscreen)` - Shift + Super + F
-* `Take a Screenshot Interactively` - Shift + Super + G
-* `Take a Screenshot of a Window` - Shift + Super + W
+* `Record a Screencast Interactively` - <kbd>Shift</kbd> + <kbd>Super</kbd> + <kbd>R</kbd>
+* `Take a Screenshot (Fullscreen)` - <kbd>Shift</kbd> + <kbd>Super</kbd> + <kbd>F</kbd>
+* `Take a Screenshot Interactively` - <kbd>Shift</kbd> + <kbd>Super</kbd> + <kbd>G</kbd>
+* `Take a Screenshot of a Window` - <kbd>Shift</kbd> + <kbd>Super</kbd> + <kbd>W</kbd>
 
 ### System
-* `Lock screen` - Super + L
-* `Show All Apps` - Super + A
-* `Show the notification list`- Super + V
-* `Show the Overview` - Super + Tab
+* `Lock screen` - <kbd>Super</kbd> + <kbd>L</kbd>
+* `Show All Apps` - <kbd>Super</kbd> + <kbd>A</kbd>
+* `Show the notification list`- <kbd>Super</kbd> + <kbd>V</kbd>
+* `Show the Overview` - <kbd>Super</kbd> + <kbd>Tab</kbd>
 
 ### Windows
-* `Hide Window` - Super + Down
-* `Toggle Maximization State` - Super + Up
+* `Hide Window` - <kbd>Super</kbd> + <kbd>Down</kbd>
+* `Toggle Maximization State` - <kbd>Super</kbd> + <kbd>Up</kbd>
 
 ### Custom Shortcuts
-* BlackBox `com.raggesilver.BlackBox` - Ctrl + Alt + T
-* System Monitor (aka Task Manager) `gnome-system-monitor`- Shift + Ctrl + Esc
+* BlackBox `com.raggesilver.BlackBox` - <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>
+* System Monitor (aka Task Manager) `gnome-system-monitor`- <kbd>Shift</kbd> + <kbd>Ctrl</kbd> + <kbd>Esc</kbd>
 </details>
 
 
