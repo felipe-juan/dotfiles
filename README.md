@@ -193,7 +193,7 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 |---|---|
 |Lock screen | <kbd>Super</kbd> + <kbd>L</kbd> |
 |Show All Apps| <kbd>Super</kbd> + <kbd>A</kbd> |
-|Show the notification list | <kbd>Super</kbd> + <kbd>V</kbd> |
+|Show the Notification List | <kbd>Super</kbd> + <kbd>V</kbd> |
 |Show the Overview | <kbd>Super</kbd> + <kbd>Tab</kbd> |
 
 | Windows | Shortcuts |
