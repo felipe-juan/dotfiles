@@ -210,23 +210,9 @@ Since I'm coming from Windows, most of the shortcuts I made were just the same a
 <details>
 <summary><h3>Better International Keyboard</h2></summary>
   
-For context, there is a different behavior (and less practical) than Windows on the international keyboard. To type "acentos", you always have to press space before each key, even if the next key isn't a "compatible letter" (like a consoant). That's why I found [this guide on GitHub](https://github.com/raelgc/win_us_intl) that has solutions to this problem.
-
-To be honest, I ignored both `Try enabling ISO-8859-1` and `Try enabling ISO-8859-1` and went straight to the Arch Linux section. So I probably did more unnecessary steps to get this to work, while I could just run fewer commands. 🤡
-
-However, it worked for me too, although I had to change a few things (Arch Linux):
-```
-wget https://raw.githubusercontent.com/raelgc/win_us_intl/master/.XCompose
-gsettings set org.gnome.settings-daemon.plugins.xsettings disabled-gtk-modules '["'keyboard'"]'
-git clone https://aur.archlinux.org/packages/uim
-cd uim/
-makepkg -si
-```
-> [!IMPORTANT]  
-> I didn't use any .xprofile - though I even created one —  this made my computer having any “acentos” working at all.
-> So I removed the file and done! Now everything is working fine. 
-> And then *Restart Computer* (Logout & Login didn't work for me)
+For context, there is a different behavior (and less practical) than Windows on the international keyboard. To type "acentos", you always have to press space before each key, even if the next key isn't a "compatible letter" (like a consoant). That's why I found [this guide on GitHub](https://github.com/raelgc/win_us_intl) that has solutions to this problem. [`Try enabling ISO-8859-1`](https://github.com/raelgc/win_us_intl#try-with-ibus) worked perfectly for me.
 </details>
+
 
 <details>
 <summary><h3>Personal Applications List</h2></summary>
