@@ -35,7 +35,6 @@ It's crucial to change several extensions if you want to achieve the same look, 
 * [Desktop Clock](https://extensions.gnome.org/extension/5156/desktop-clock/)
 * [Gnome 4x UI Improvements](https://extensions.gnome.org/extension/4158/gnome-40-ui-improvements/)
 * [Just Perfection](https://extensions.gnome.org/extension/3843/just-perfection/)
-* [QSTweaker - Quick Settings Tweaker](https://extensions.gnome.org/extension/5446/quick-settings-tweaker/)
 * [Rounded Corners](https://extensions.gnome.org/extension/5237/rounded-window-corners/)
 * [Transparent Window Moving](https://extensions.gnome.org/extension/1446/transparent-window-moving/)
 
@@ -46,6 +45,7 @@ It's crucial to change several extensions if you want to achieve the same look, 
 * [Pano - Clipboard Manager](https://extensions.gnome.org/extension/5278/pano/)
 * [Pop Shell](https://github.com/pop-os/shell)
 * [Quick Close in Overview](https://extensions.gnome.org/extension/352/middle-click-to-close-in-overview/)
+* [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
 
 ## Softwares Settings
 If I seem to have left some settings behind, it's because I didn't change them, and otherwise it would be redundant.
@@ -138,20 +138,6 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 <summary><b>Pop Shell</b></summary>
 
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/pop%20shell%201.png)
-</details>
-
-<details>
-<summary><b>QSTweaker - Quick Settings</b></summary>
-
-![](https://github.com/felipe-juan/dotfiles/blob/main/assets/qstweaker%200.png)
-![](https://github.com/felipe-juan/dotfiles/blob/main/assets/qstweaker%201.png)
-![](https://github.com/felipe-juan/dotfiles/blob/main/assets/qstwaker%203.png)
-![](https://github.com/felipe-juan/dotfiles/blob/main/assets/qstweaker%204.png)
-![](https://github.com/felipe-juan/dotfiles/blob/main/assets/qstweaker%205.png)
-![](https://github.com/felipe-juan/dotfiles/blob/main/assets/qstweaker%206.png)
-![](https://github.com/felipe-juan/dotfiles/blob/main/assets/qstweaker%207.png)
-![](https://github.com/felipe-juan/dotfiles/blob/main/assets/qstweaker%208.png)
-![](https://github.com/felipe-juan/dotfiles/blob/main/assets/qstweaker%209.png)
 </details>
 
 <details>
