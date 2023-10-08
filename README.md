@@ -9,14 +9,12 @@ This is my first rice ever! I wanted it to be aesthetically pleasing, but also v
 It's crucial to change several extensions if you want to achieve the same look, so please check out the screenshots on **[Extension Settings](https://github.com/felipe-juan/dotfiles/blob/main/README.md#extension-settings)** to see what I've changed. That said, I'd be happy if someone uses my dotfiles!
 
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/desktopp.png)
-![](https://github.com/felipe-juan/dotfiles/blob/main/assets/widgetsssss.png)
+![](https://github.com/felipe-juan/dotfiles/blob/main/assets/widgetssssss.png)
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/video(1).gif)
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/overviewuu.png)
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/app%20dashuu.png)
 
-## Software Information
-* Desktop Enviroment: GNOME 44.5
-* Shell: bash 5.1.16
+## Appearance Information
 * Fonts: Roboto Medium / Roboto Mono Regular
 * Terminal: [BlackBox](https://gitlab.gnome.org/raggesilver/blackbox)
 * Shell/GTK Theme: [RosePine-Main-BL](https://github.com/Fausto-Korpsvart/Rose-Pine-GTK-Theme)
@@ -63,6 +61,9 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 <details>
 <summary><b>Aylur's Widgets</b></summary>
 
+![](https://github.com/felipe-juan/dotfiles/blob/main/assets/aylurswidgetsmenu.png)
+![](https://github.com/felipe-juan/dotfiles/blob/main/assets/quicksettingstweaks.png)
+![](https://github.com/felipe-juan/dotfiles/blob/main/assets/workspaceindicator.png)
 ![dsads](https://github.com/felipe-juan/dotfiles/blob/main/assets/aylur's%20widgets%202.png)
 ![dsadsa](https://github.com/felipe-juan/dotfiles/blob/main/assets/aylur's%20widgets%203.png)
 ![dsadsa](https://github.com/felipe-juan/dotfiles/blob/main/assets/aylur's%20widgets%204.png)
@@ -235,7 +236,7 @@ makepkg -si
 * BlackBox 
 * Discord 
 * Extension Manager (Matthew Jakeman)
-* [FireFox Nightly](https://github.com/Linux-Is-Best/Firefox-automatic-install-for-Linux)
+* Firefox
 * Foliarte
 * Footage
 * KDE Connect
@@ -247,8 +248,6 @@ makepkg -si
 * Tweaks
 * `yay`
 </details>
-
-
 
 ## Credits to
 * [u/Steve_Petrov](https://www.reddit.com/r/unixporn/comments/z9iz83/gnome_what_a_funky/) for the neofetch config and idea!
