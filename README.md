@@ -166,11 +166,9 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 |---|---|
 |Home Folder | <kbd>Super</kbd> + <kbd>E</kbd>|
 | Launch Email Client| `Disabled`|
-
 | Navigate Applications and Windows| Shortcuts |
 |---|---|
 | Switch Focus to Window  |`Disabled (all of them)`  |
-
 |Navigation| Shortcuts |
 |---|---|
 | Hide All Normal Windows  |<kbd>Super</kbd> + <kbd>D</kbd>  |
