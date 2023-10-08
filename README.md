@@ -159,7 +159,8 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 ## Extra Stuff
 <details>
 <summary><h3>Keyboard Shortcuts</h2></summary>
-Since I'm coming from Windows, most of the shortcuts I made were just the same as they were there. I highly recommend you do the same if you used these shortcuts on Windows too!
+
+  Since I'm coming from Windows, most of the shortcuts I made were just the same as they were there. I highly recommend you do the same if you used these shortcuts on Windows too!
 
 | Launchers| Shortcuts|
 |---|---|
