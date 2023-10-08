@@ -26,24 +26,24 @@ It's crucial to change several extensions if you want to achieve the same look, 
 * `btop` - [Rosé Pine](https://github.com/rose-pine/btop)
 
 ## Visuals-featured Extensions
-* [ArcMenu](https://extensions.gnome.org/extension/3628/arcmenu/)
 * [Aylur's Widget](https://extensions.gnome.org/extension/5338/aylurs-widgets/)
 * [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)
-* [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)
 * [Desktop Clock](https://extensions.gnome.org/extension/5156/desktop-clock/)
 * [Gnome 4x UI Improvements](https://extensions.gnome.org/extension/4158/gnome-40-ui-improvements/)
 * [Just Perfection](https://extensions.gnome.org/extension/3843/just-perfection/)
 * [Rounded Corners](https://extensions.gnome.org/extension/5237/rounded-window-corners/)
 * [Transparent Window Moving](https://extensions.gnome.org/extension/1446/transparent-window-moving/)
+* [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
 
 ## Usability-featured Extensions
+* [ArcMenu](https://extensions.gnome.org/extension/3628/arcmenu/)
 * [Color Picker](https://extensions.gnome.org/extension/3396/color-picker/)
+* [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)
 * [Gesture Improvements](https://extensions.gnome.org/extension/4245/gesture-improvements/)
 * [Tiling Assistant](https://extensions.gnome.org/extension/3733/tiling-assistant/)
 * [Pano - Clipboard Manager](https://extensions.gnome.org/extension/5278/pano/)
 * [Pop Shell](https://github.com/pop-os/shell)
 * [Quick Close in Overview](https://extensions.gnome.org/extension/352/middle-click-to-close-in-overview/)
-* [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
 
 ## Softwares Settings
 If I seem to have left some settings behind, it's because I didn't change them, and otherwise it would be redundant.
