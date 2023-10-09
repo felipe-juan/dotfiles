@@ -5,20 +5,23 @@
   <img width="650" src="https://github.com/felipe-juan/dotfiles/blob/main/assets/neofetch.png">
 </p>
 
-### Summary
+### Table of Contentes
 
 <img src="https://github.com/felipe-juan/dotfiles/blob/main/assets/video(1).gif" align="right" width="520px">
 
-* [Introduction](https://github.com/felipe-juan/dotfiles#-introduction)
-* [Appearance Information](https://github.com/felipe-juan/dotfiles#-appearance-information)
-* [Extensions](https://github.com/felipe-juan/dotfiles#-extensions)
-* [Software Settings](https://github.com/felipe-juan/dotfiles#%EF%B8%8F-softwares-settings)
-* [Keyboard Shortcuts](https://github.com/felipe-juan/dotfiles#%EF%B8%8F-keyboard-shortcuts)
-* [Cool Terminal Commands](https://github.com/felipe-juan/dotfiles#-cool-terminal-commands)
-* [Better International Keyboard](https://github.com/felipe-juan/dotfiles#-better-international-keyboard)
-* [Firefox & Touchpad Gestures](https://github.com/felipe-juan/dotfiles#%EF%B8%8F-firefox-with-touchpad-gestures)
-* [Personal Applications List](https://github.com/felipe-juan/dotfiles#%EF%B8%8F-personal-applications-list)
-* [Credits to](https://github.com/felipe-juan/dotfiles#credits-to)
+* [🍚 Introduction](https://github.com/felipe-juan/dotfiles#-introduction)
+* [🎨 Appearance Information](https://github.com/felipe-juan/dotfiles#-appearance-information)
+* [🧩 Extensions](https://github.com/felipe-juan/dotfiles#-extensions)
+  * [🖌️ Visuals](https://github.com/felipe-juan/dotfiles#%EF%B8%8F-visuals-featured-extensions)
+  * [🪄 Usability](https://github.com/felipe-juan/dotfiles#-usability-featured-extensions)
+* [⚙️ Software Settings](https://github.com/felipe-juan/dotfiles#%EF%B8%8F-softwares-settings)
+* [➕ Extra Stuff](https://github.com/felipe-juan/dotfiles#-extra-stuff)
+  * [⌨️ Keyboard Shortcuts](https://github.com/felipe-juan/dotfiles#%EF%B8%8F-keyboard-shortcuts)
+  * [😎 Cool Terminal Commands](https://github.com/felipe-juan/dotfiles#-cool-terminal-commands)
+  * [🌎 Better International Keyboard](https://github.com/felipe-juan/dotfiles#-better-international-keyboard)
+  * [🖱️ Firefox & Touchpad Gestures](https://github.com/felipe-juan/dotfiles#%EF%B8%8F-firefox-with-touchpad-gestures)
+  * [🖥️ Personal Applications List](https://github.com/felipe-juan/dotfiles#%EF%B8%8F-personal-applications-list)
+* [✨ Credits to](https://github.com/felipe-juan/dotfiles#credits-to)
 
 # 🍚 Introduction
 This is my first rice ever! I wanted it to be aesthetically pleasing, but also very usable. It may still have some inconsistencies here and there. However, its current state is what I could have done without a massive time consuming effort. 
@@ -175,7 +178,7 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 </details>
 
 
-## Extra Stuff
+## ➕ Extra Stuff
 <details>
 <summary><h3>⌨️ Keyboard Shortcuts</h2></summary>
 
@@ -283,7 +286,7 @@ After that, I would recommend to change the following configs, because the defau
 * Tweaks
 </details>
 
-## Credits to
+## ✨ Credits to
 * [u/Steve_Petrov](https://www.reddit.com/r/unixporn/comments/z9iz83/gnome_what_a_funky/) for the neofetch config and idea!
 * [@Aylur](https://github.com/Aylur) for inspiration and making those awesome widgets!
 * [@oae](https://github.com/oae/) for creating the best clipboard software I ever used!
