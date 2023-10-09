@@ -1,7 +1,7 @@
 <h1 align=center>Felipe Juan's Dotfiles</h1>
 
 <p align="center">
-  <img width="1366src="https://github.com/felipe-juan/dotfiles/blob/main/assets/video(1).gif">
+  <img width="720" src="https://github.com/felipe-juan/dotfiles/blob/main/assets/video(1).gif">
 </p>
 
 <h1></h1>
