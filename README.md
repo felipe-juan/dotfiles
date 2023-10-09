@@ -5,7 +5,7 @@
   <img width="650" src="https://github.com/felipe-juan/dotfiles/blob/main/assets/neofetch.png">
 </p>
 
-<img src="https://github.com/felipe-juan/dotfiles/blob/main/assets/video(1).gif" align="right" width="500px">
+<img src="https://github.com/felipe-juan/dotfiles/blob/main/assets/video(1).gif" align="right" width="520px">
 
 ### Summary
 * [Introduction](https://github.com/felipe-juan/dotfiles#-introduction)
@@ -15,7 +15,7 @@
 * [Keyboard Shortcuts](https://github.com/felipe-juan/dotfiles#%EF%B8%8F-keyboard-shortcuts)
 * [Cool Terminal Commands](https://github.com/felipe-juan/dotfiles#-cool-terminal-commands)
 * [Better International Keyboard](https://github.com/felipe-juan/dotfiles#-better-international-keyboard)
-* [Firefox with Touchpad Gestures](https://github.com/felipe-juan/dotfiles#%EF%B8%8F-firefox-with-touchpad-gestures)
+* [Firefox & Touchpad Gestures](https://github.com/felipe-juan/dotfiles#%EF%B8%8F-firefox-with-touchpad-gestures)
 * [Personal Applications List](https://github.com/felipe-juan/dotfiles#%EF%B8%8F-personal-applications-list)
 * [Credits to](https://github.com/felipe-juan/dotfiles#credits-to)
 
