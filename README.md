@@ -7,7 +7,7 @@
 
 ### Table of Contentes
 
-<img src="https://github.com/felipe-juan/dotfiles/blob/main/assets/video(1).gif" align="right" width="520px">
+<img src="https://github.com/felipe-juan/dotfiles/blob/main/assets/video(1).gif" align="right" width="550px">
 
 * [🍚 Introduction](https://github.com/felipe-juan/dotfiles#-introduction)
 * [🎨 Appearance Information](https://github.com/felipe-juan/dotfiles#-appearance-information)
@@ -19,8 +19,8 @@
   * [⌨️ Keyboard Shortcuts](https://github.com/felipe-juan/dotfiles#%EF%B8%8F-keyboard-shortcuts)
   * [😎 Cool Terminal Commands](https://github.com/felipe-juan/dotfiles#-cool-terminal-commands)
   * [🌎 Better International Keyboard](https://github.com/felipe-juan/dotfiles#-better-international-keyboard)
-  * [🖱️ Firefox & Touchpad Gestures](https://github.com/felipe-juan/dotfiles#%EF%B8%8F-firefox-with-touchpad-gestures)
-  * [🖥️ Personal Applications List](https://github.com/felipe-juan/dotfiles#%EF%B8%8F-personal-applications-list)
+  * [🖱️ Firefox & Touchpad](https://github.com/felipe-juan/dotfiles#%EF%B8%8F-firefox-with-touchpad-gestures)
+  * [🖥️ Applications List](https://github.com/felipe-juan/dotfiles#%EF%B8%8F-personal-applications-list)
 * [✨ Credits to](https://github.com/felipe-juan/dotfiles#credits-to)
 
 # 🍚 Introduction
