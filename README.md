@@ -5,6 +5,8 @@
   <img width="650" src="https://github.com/felipe-juan/dotfiles/blob/main/assets/neofetch.png">
 </p>
 
+<img src="https://github.com/felipe-juan/dotfiles/blob/main/assets/video(1).gif" align="right">
+
 ### Summary
 * [Introduction](https://github.com/felipe-juan/dotfiles#-introduction)
 * [Appearance Information](https://github.com/felipe-juan/dotfiles#-appearance-information)
@@ -29,7 +31,6 @@ Kudos to the best clipboard manager ever (my beloved [Pano extension](https://gi
 That said, I'd be happy if someone uses my dotfiles!
 
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/EVERYTHING%20EVERYWHERE.png)
-![](https://github.com/felipe-juan/dotfiles/blob/main/assets/video(1).gif)
 
 ## 🎨 Appearance Information
 * Fonts: `Roboto Medium` / `Roboto Mono Regular`
