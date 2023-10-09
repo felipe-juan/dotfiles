@@ -1,6 +1,8 @@
 <h1 align=center>Felipe Juan's Dotfiles</h1>
 
-![](https://github.com/felipe-juan/dotfiles/blob/main/assets/video(1).gif)
+<p align="center">
+  <img width="1366src="https://github.com/felipe-juan/dotfiles/blob/main/assets/video(1).gif">
+</p>
 
 <h1></h1>
 
