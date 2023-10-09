@@ -7,8 +7,7 @@ This is my first rice ever! I wanted it to be aesthetically pleasing, but also v
 
 I chose GNOME as my desktop environment because - while KDE definitely has some basic features out of the box that I always use - after a little setup it provides _me_ a better experience and I don't miss almost anything (KDE widgets are still awesome, though). 
 
-Kudos to the best clipboard manager ever (my beloved [Pano extension](https://github.com/oae/gnome-shell-pano) 💖) and probably one of the coolest overview feature that I ever used. I miss the system-wide touchpad gestures that are available in Windows and macOS, although GNOME is still the distro that supports them the most among the others.
-
+Kudos to the best clipboard manager ever (my beloved [Pano extension](https://github.com/oae/gnome-shell-pano) 💖) and probably one of the coolest overview feature that I ever used. I miss the system-wide touchpad gestures that are available in Windows and macOS, although GNOME is still the distro that supports it the most among others.
 
 > [!IMPORTANT] 
 > It's crucial to change several extensions if you want to achieve the same look, so please check out the screenshots on **[Software Settings](https://github.com/felipe-juan/dotfiles/blob/main/README.md#software-settings)** to see what I've changed.
