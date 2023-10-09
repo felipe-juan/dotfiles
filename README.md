@@ -10,7 +10,7 @@
 * [🎨 Appearance Information](https://github.com/felipe-juan/dotfiles#-appearance-information)
 * [🧩 Extensions](https://github.com/felipe-juan/dotfiles#-extensions)
   * [🖌️ Visuals-featured](https://github.com/felipe-juan/dotfiles#%EF%B8%8F-visuals-featured-extensions)
-  * [🪄 Usability-feature](https://github.com/felipe-juan/dotfiles#-usability-featured-extensions)
+  * [🪄 Usability-featured](https://github.com/felipe-juan/dotfiles#-usability-featured-extensions)
 * [⚙️ Software Settings](https://github.com/felipe-juan/dotfiles#%EF%B8%8F-softwares-settings)
 * [➕ Extra Stuff](https://github.com/felipe-juan/dotfiles#-extra-stuff)
   * [⌨️ Keyboard Shortcuts](https://github.com/felipe-juan/dotfiles#%EF%B8%8F-keyboard-shortcuts)
