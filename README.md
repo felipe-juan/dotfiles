@@ -1,3 +1,6 @@
+<h1 align=center>Felipe Juan's Dotfiles</h1>
+
+
 <p align="center">
   <img width="650" src="https://github.com/felipe-juan/dotfiles/blob/main/assets/neofetch.png">
 </p>
