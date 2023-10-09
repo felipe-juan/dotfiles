@@ -1,7 +1,7 @@
 <h1 align=center>Felipe Juan's Dotfiles</h1>
 
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/video(1).gif)
-
+<h1></h1>
 ### Table of Contentes
 
 * [🍚 Introduction](https://github.com/felipe-juan/dotfiles#-introduction)
@@ -18,7 +18,7 @@
   * [🖥️ Applications List](https://github.com/felipe-juan/dotfiles#%EF%B8%8F-personal-applications-list)
 * [✨ Credits to](https://github.com/felipe-juan/dotfiles#credits-to)
 
----
+<h1></h1>
 
 # 🍚 Introduction
 This is my first rice ever! I wanted it to be aesthetically pleasing, but also very usable. It may still have some inconsistencies here and there. However, its current state is what I could have done without a massive time consuming effort. 
