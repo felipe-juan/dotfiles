@@ -2,9 +2,7 @@
   <img width="650" src="https://github.com/felipe-juan/dotfiles/blob/main/assets/neofetch.png">
 </p>
 
-<h1 align="center">🍚 Cooking GNOME 🍚</h1>
-
-### Introduction
+## 🍚 Introduction
 This is my first rice ever! I wanted it to be aesthetically pleasing, but also very usable. It may still have some inconsistencies here and there. However, its current state is what I could have done without a massive time consuming effort. 
 
 I chose GNOME as my desktop environment because - while KDE definitely has some basic features out of the box that I always use - after a little setup it provides _me_ a better experience and I don't miss almost anything (KDE widgets are still awesome, though). 
@@ -19,7 +17,7 @@ That said, I'd be happy if someone uses my dotfiles!
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/EVERYTHING%20EVERYWHERE.png)
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/video(1).gif)
 
-## Appearance Information
+## 🎨 Appearance Information
 * Fonts: `Roboto Medium` / `Roboto Mono Regular`
 * Terminal: [BlackBox](https://gitlab.gnome.org/raggesilver/blackbox)
 * Shell/GTK Theme: [RosePine-Main-BL](https://github.com/Fausto-Korpsvart/Rose-Pine-GTK-Theme)
@@ -30,7 +28,7 @@ That said, I'd be happy if someone uses my dotfiles!
 * `Discord` - [Rosé Pine](https://github.com/rose-pine/discord)
 * `btop` - [Rosé Pine](https://github.com/rose-pine/btop)
 
-## Visuals-featured Extensions
+## 🖌️ Visuals-featured Extensions
 * [Aylur's Widget](https://extensions.gnome.org/extension/5338/aylurs-widgets/)
 * [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)
 * [Desktop Clock](https://extensions.gnome.org/extension/5156/desktop-clock/)
@@ -40,7 +38,7 @@ That said, I'd be happy if someone uses my dotfiles!
 * [Transparent Window Moving](https://extensions.gnome.org/extension/1446/transparent-window-moving/)
 * [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
 
-## Usability-featured Extensions
+## 🪄 Usability-featured Extensions
 * [ArcMenu](https://extensions.gnome.org/extension/3628/arcmenu/)
 * [Color Picker](https://extensions.gnome.org/extension/3396/color-picker/)
 * [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)
@@ -51,7 +49,7 @@ That said, I'd be happy if someone uses my dotfiles!
 * [Pop Shell](https://github.com/pop-os/shell)
 * [Quick Close in Overview](https://extensions.gnome.org/extension/352/middle-click-to-close-in-overview/)
 
-## Softwares Settings
+## ⚙️ Softwares Settings
 If I seem to have left some settings behind, it's because I didn't change them, and otherwise it would be redundant.
 <details>
 
@@ -162,7 +160,7 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 
 ## Extra Stuff
 <details>
-<summary><h3>Keyboard Shortcuts</h2></summary>
+<summary><h3>⌨️ Keyboard Shortcuts</h2></summary>
 
   Since I'm coming from Windows, most of the shortcuts I made were just the same as they were there. I highly recommend you do the same if you used these shortcuts on Windows too!
 
@@ -212,7 +210,7 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 </details>
 
 <details>
-<summary><h3>Cool Terminal Commands</h2></summary>
+<summary><h3>😎 Cool Terminal Commands</h2></summary>
 
 * [asciiquarium](https://github.com/cmatsuoka/asciiquarium)
 * [btop](https://github.com/aristocratos/btop)
@@ -226,7 +224,7 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 </details>
 
 <details>
-<summary><h3>Better International Keyboard</h2></summary>
+<summary><h3>🌎 Better International Keyboard</h2></summary>
   
 For context, there is a different behavior (and less practical) than Windows on the international keyboard. To type "acentos", you always have to press space before each key, even if the next key isn't a "compatible letter" (like a consoant). 
 
@@ -234,7 +232,7 @@ That's why I found [this guide on GitHub](https://github.com/raelgc/win_us_intl)
 </details>
 
 <details>
-<summary><h3>Firefox with Touchpad Gesture</h2></summary>
+<summary><h3>🖱️ Firefox with Touchpad Gesture</h2></summary>
 
 Make sure that the configurations related to kinetic touchpad are enabled on `about:config`.
 
@@ -244,7 +242,7 @@ After that, I would recommend to change the following configs, because the defau
 </details>
 
 <details>
-<summary><h3>Personal Applications List</h2></summary>
+<summary><h3>🖥️ Personal Applications List</h2></summary>
 
 * Anki
 * BetterDiscord 
