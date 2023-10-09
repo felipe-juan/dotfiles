@@ -228,6 +228,7 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 For context, there is a different behavior (and less practical) than Windows on the international keyboard. To type "acentos", you always have to press space before each key, even if the next key isn't a "compatible letter" (like a consoant). 
 
 That's why I found [this guide on GitHub](https://github.com/raelgc/win_us_intl) that has solutions to this problem. [`Try enabling ISO-8859-1`](https://github.com/raelgc/win_us_intl#try-with-ibus) worked perfectly for me, though.
+
 </details>
 
 <details>
