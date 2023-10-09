@@ -231,7 +231,7 @@ That's why I found [this guide on GitHub](https://github.com/raelgc/win_us_intl)
 </details>
 
 <details>
-<summary><h3>🖱️ Firefox with Touchpad Gesture</h2></summary>
+<summary><h3>🖱️ Firefox with Touchpad Gestures</h2></summary>
 
 Make sure that the configurations related to kinetic touchpad are enabled on `about:config`.
 
