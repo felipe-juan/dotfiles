@@ -5,9 +5,10 @@
   <img width="650" src="https://github.com/felipe-juan/dotfiles/blob/main/assets/neofetch.png">
 </p>
 
+### Summary
+
 <img src="https://github.com/felipe-juan/dotfiles/blob/main/assets/video(1).gif" align="right" width="520px">
 
-### Summary
 * [Introduction](https://github.com/felipe-juan/dotfiles#-introduction)
 * [Appearance Information](https://github.com/felipe-juan/dotfiles#-appearance-information)
 * [Extensions](https://github.com/felipe-juan/dotfiles#-extensions)
