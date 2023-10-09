@@ -5,9 +5,9 @@
   <img width="650" src="https://github.com/felipe-juan/dotfiles/blob/main/assets/neofetch.png">
 </p>
 
-### Table of Contentes
+![](➕)
 
-<img src="https://github.com/felipe-juan/dotfiles/blob/main/assets/video(1).gif" align="right" width="550px">
+### Table of Contentes
 
 * [🍚 Introduction](https://github.com/felipe-juan/dotfiles#-introduction)
 * [🎨 Appearance Information](https://github.com/felipe-juan/dotfiles#-appearance-information)
@@ -22,6 +22,8 @@
   * [🖱️ Firefox & Touchpad](https://github.com/felipe-juan/dotfiles#%EF%B8%8F-firefox-with-touchpad-gestures)
   * [🖥️ Applications List](https://github.com/felipe-juan/dotfiles#%EF%B8%8F-personal-applications-list)
 * [✨ Credits to](https://github.com/felipe-juan/dotfiles#credits-to)
+
+---
 
 # 🍚 Introduction
 This is my first rice ever! I wanted it to be aesthetically pleasing, but also very usable. It may still have some inconsistencies here and there. However, its current state is what I could have done without a massive time consuming effort. 
