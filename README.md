@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" src="https://github.com/felipe-juan/dotfiles/blob/main/assets/neofetch.png">
+  <img width="720" src="https://github.com/felipe-juan/dotfiles/blob/main/assets/neofetch.png">
 </p>
 
 <h1 align="center">🍚 Cooking GNOME 🍚</h1>
