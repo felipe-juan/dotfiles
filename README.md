@@ -163,46 +163,46 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 
   Since I'm coming from Windows, most of the shortcuts I made were just the same as they were there. I highly recommend you do the same if you used these shortcuts on Windows too!
 
-| Launchers| Shortcuts|
+| Launchers| Keybinding |
 |---|---|
 |Home Folder | <kbd>Super</kbd> + <kbd>E</kbd>|
 | Launch Email Client| `Disabled`|
 
-| Navigate Applications and Windows| Shortcuts |
+| Navigate Applications and Windows| Keybinding  |
 |---|---|
 | Switch Focus to Window  |`Disabled (all of them)`  |
 
-|Navigation| Shortcuts |
+|Navigation| Keybinding  |
 |---|---|
 | Hide All Normal Windows  |<kbd>Super</kbd> + <kbd>D</kbd>  |
 
-| Navigate Applications and Windows| Shortcuts |
+| Navigate Applications and Windows| Keybinding  |
 |---|---|
 | Switch Focus to Window  |`Disabled (all of them)`  |
 | Switch Applications |`Disabled`|
 | Switch Windows |<kbd>Alt</kbd> + <kbd>Tab</kbd>  |
 
 
-| Screenshots| Shortcuts |
+| Screenshots| Keybinding  |
 |---|---|
 | Record a Screencast Interactively  |<kbd>Shift</kbd> + <kbd>Super</kbd> + <kbd>R</kbd> |
 | Take a Screenshot (Fullscreen)| <kbd>Shift</kbd> + <kbd>Super</kbd> + <kbd>F</kbd>|
 | Take a Screenshot Interactively| <kbd>Shift</kbd> + <kbd>Super</kbd> + <kbd>F</kbd>|
 | Take a Screenshot of a Window| <kbd>Shift</kbd> + <kbd>Super</kbd> + <kbd>W</kbd>|
 
-|System|Shortcuts|
+|System|Keybinding |
 |---|---|
 |Lock screen | <kbd>Super</kbd> + <kbd>L</kbd> |
 |Show All Apps| <kbd>Super</kbd> + <kbd>A</kbd> |
 |Show the Notification List | <kbd>Super</kbd> + <kbd>V</kbd> |
 |Show the Overview | <kbd>Super</kbd> + <kbd>Tab</kbd> |
 
-| Windows | Shortcuts |
+| Windows | Keybinding  |
 |---|---|
 |Hide Window| <kbd>Super</kbd> + <kbd>Down</kbd>|
 |Toggle Maximization State|<kbd>Super</kbd> + <kbd>Up</kbd>|
 
-|Custom|Shortcuts|
+|Custom|Keybinding |
 |---|---|
 |BlackBox `com.raggesilver.BlackBox` | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd> |
 |System Monitor (aka Task Manager) `gnome-system-monitor` | <kbd>Shift</kbd> + <kbd>Ctrl</kbd> + <kbd>Esc</kbd>|
