@@ -41,7 +41,7 @@ That said, I'd be happy if someone uses my dotfiles!
 * Fonts: `Roboto Medium` / `Roboto Mono Regular`
 * Terminal: [BlackBox](https://gitlab.gnome.org/raggesilver/blackbox)
 * Shell/GTK Theme: [RosePine-Main-BL](https://github.com/Fausto-Korpsvart/Rose-Pine-GTK-Theme)
-* Icons Theme: [Catppuccin-Mocha](https://github.com/Fausto-Korpsvart/Catppuccin-GTK-Theme/tree/main/icons)
+* Icons Theme: [Catppuccin-Mocha](https://github.com/Fausto-Korpsvart/Catppuccin-GTK-Theme)
 * Cursor Theme: [Sunity](https://github.com/alvatip/Sunity-cursors)
 ### Rosé Pine Theme for:
 * [`BlackBox`](https://github.com/rose-pine/black-box)
