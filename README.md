@@ -41,10 +41,12 @@ That said, I'd be happy if someone uses my dotfiles!
 * Shell/GTK Theme: [RosePine-Main-BL](https://github.com/Fausto-Korpsvart/Rose-Pine-GTK-Theme)
 * Icons Theme: [Catppuccin-Mocha](https://github.com/Fausto-Korpsvart/Catppuccin-GTK-Theme/tree/main/icons)
 * Cursor Theme: [Sunity](https://github.com/alvatip/Sunity-cursors)
-* `BlackBox` - [Rosé Pine](https://github.com/rose-pine/black-box)
-* `Gnome Text Editor` - [Rosé Pine](https://github.com/Fausto-Korpsvart/Rose-Pine-GTK-Theme/tree/main/extra/text-editor)
-* `Discord` - [Rosé Pine](https://github.com/rose-pine/discord)
-* `btop` - [Rosé Pine](https://github.com/rose-pine/btop)
+### Rosé Pine Theme for:
+* [`BlackBox`](https://github.com/rose-pine/black-box)
+* [`Gnome Text Editor`](https://github.com/Fausto-Korpsvart/Rose-Pine-GTK-Theme/tree/main/extra/text-editor)
+* [`FireFox`](https://github.com/rose-pine/firefox)
+* [`Discord`](https://github.com/rose-pine/discord)
+* [`btop`](https://github.com/rose-pine/btop)
 
 ## 🧩 Extensions
 ### 🖌️ Visuals-featured Extensions
