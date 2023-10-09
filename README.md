@@ -2,6 +2,19 @@
   <img width="650" src="https://github.com/felipe-juan/dotfiles/blob/main/assets/neofetch.png">
 </p>
 
+[Introduction](https://github.com/felipe-juan/dotfiles#-introduction)
+[Appearance Information](https://github.com/felipe-juan/dotfiles#-appearance-information)
+[Software Settings](https://github.com/felipe-juan/dotfiles#%EF%B8%8F-softwares-settings)
+[Keyboard Shortcuts](https://github.com/felipe-juan/dotfiles#%EF%B8%8F-keyboard-shortcuts)
+[Cool Terminal Commands](https://github.com/felipe-juan/dotfiles#-cool-terminal-commands)
+[Better International Keyboard](https://github.com/felipe-juan/dotfiles#-better-international-keyboard)
+[Firefox with Touchpad Gestures](https://github.com/felipe-juan/dotfiles#%EF%B8%8F-firefox-with-touchpad-gestures)
+[Personal Applications List](https://github.com/felipe-juan/dotfiles#%EF%B8%8F-personal-applications-list)
+[Credits to](https://github.com/felipe-juan/dotfiles#credits-to)
+
+<h1></h1>
+
+
 # 🍚 Introduction
 This is my first rice ever! I wanted it to be aesthetically pleasing, but also very usable. It may still have some inconsistencies here and there. However, its current state is what I could have done without a massive time consuming effort. 
 
@@ -27,7 +40,8 @@ That said, I'd be happy if someone uses my dotfiles!
 * `Discord` - [Rosé Pine](https://github.com/rose-pine/discord)
 * `btop` - [Rosé Pine](https://github.com/rose-pine/btop)
 
-## 🖌️ Visuals-featured Extensions
+## 🧩 Extensions
+### 🖌️ Visuals-featured Extensions
 * [Aylur's Widget](https://extensions.gnome.org/extension/5338/aylurs-widgets/)
 * [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)
 * [Desktop Clock](https://extensions.gnome.org/extension/5156/desktop-clock/)
@@ -37,7 +51,7 @@ That said, I'd be happy if someone uses my dotfiles!
 * [Transparent Window Moving](https://extensions.gnome.org/extension/1446/transparent-window-moving/)
 * [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
 
-## 🪄 Usability-featured Extensions
+### 🪄 Usability-featured Extensions
 * [ArcMenu](https://extensions.gnome.org/extension/3628/arcmenu/)
 * [Color Picker](https://extensions.gnome.org/extension/3396/color-picker/)
 * [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)
