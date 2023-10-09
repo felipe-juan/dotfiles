@@ -1,7 +1,9 @@
 <h1 align=center>Felipe Juan's Dotfiles</h1>
 
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/video(1).gif)
+
 <h1></h1>
+
 ### Table of Contentes
 
 * [🍚 Introduction](https://github.com/felipe-juan/dotfiles#-introduction)
