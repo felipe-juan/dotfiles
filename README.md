@@ -4,7 +4,7 @@
 
 <h1></h1>
 
-### Table of Contentes
+### Table of Contents
 
 * [🍚 Introduction](https://github.com/felipe-juan/dotfiles#-introduction)
 * [🎨 Appearance Information](https://github.com/felipe-juan/dotfiles#-appearance-information)
