@@ -233,7 +233,8 @@ That's why I found [this guide on GitHub](https://github.com/raelgc/win_us_intl)
 <details>
 <summary><h3>🖱️ Firefox with Touchpad Gestures</h2></summary>
 
-Make sure that the configurations related to kinetic touchpad are enabled on `about:config`.
+Make sure that the configurations related to kinetic touchpad are enabled on `about:config`, including:
+`MOZ_ENABLE_WAYLAND` = 1
 
 After that, I would recommend to change the following configs, because the default speed is too fast:
 `mousewheel.default.delta_multiplier_y` = 20
