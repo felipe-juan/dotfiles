@@ -295,4 +295,4 @@ After that, I would recommend to change the following configs, because the defau
 * [@oae](https://github.com/oae/) for creating the best clipboard software I ever used!
 * A lot of people on the internet that I also took little inspirations from!
 
-<img align="center" width="500" src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.png">
+<img align="center" width="550" src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.png">
