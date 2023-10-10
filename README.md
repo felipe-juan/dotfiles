@@ -186,7 +186,9 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 <details>
 <summary><h3>🌀 Spinning Girl (ASCII GIF on Terminal)</h2></summary>
 
-  <img width="300" src="https://github.com/felipe-juan/dotfiles/assets/85803620/476e4795-d6a1-4b13-b5f5-d8f536338d23">
+<p align="center">
+  <img width="250" src="https://github.com/felipe-juan/dotfiles/assets/85803620/476e4795-d6a1-4b13-b5f5-d8f536338d23">
+</p>
 
 I just used the amazing [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) tool to make it! Its repository is also well organized and has many gifs demonstrating each command.
 
