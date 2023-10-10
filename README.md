@@ -196,7 +196,7 @@ I just used the amazing [ascii-image-converter](https://github.com/TheZoraiz/asc
 
 If I remember correctly, this was the command I used:
 
-`ascii-image-converter [path/to/spinning_fumo.gif] -b --dither -C`
+`ascii-image-converter path/to/spinning_fumo.gif -b --dither -C`
 </details>
 
 
