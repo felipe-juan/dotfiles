@@ -183,6 +183,18 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 
 ## ➕ Extra Stuff
 <details>
+<summary><h3>🌀 Spinning Girl (ASCII GIF on Terminal)</h2></summary>
+  
+![spinning cirno](https://github.com/felipe-juan/dotfiles/assets/85803620/476e4795-d6a1-4b13-b5f5-d8f536338d23)
+
+I just used the amazing [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) tool to make it! Its repository is also well organized and has many gifs demonstrating each command.
+
+If I remember correctly, this was the command I used:
+`ascii-image-converter [path/to/spinning_fumo.gif] -b --dither -C`
+</details>
+
+
+<details>
 <summary><h3>⌨️ Keyboard Shortcuts</h2></summary>
 
   Since I'm coming from Windows, most of the shortcuts I made were just the same as they were there. I highly recommend you do the same if you used these shortcuts on Windows too!
