@@ -41,7 +41,7 @@ That said, I'd be happy if someone uses my dotfiles!
 ## 🎨 Appearance Information
 
 <p align="left">
-  <img width="400" src="https://github.com/felipe-juan/dotfiles/blob/main/assets/neofetch.png">
+  <img width="500" src="https://github.com/felipe-juan/dotfiles/blob/main/assets/neofetch.png">
 </p>
 
 * Fonts: `Roboto Medium` / `Roboto Mono Regular`
