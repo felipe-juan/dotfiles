@@ -189,6 +189,7 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 <p align="center">
   <img width="250" src="https://github.com/felipe-juan/dotfiles/blob/main/assets/spinning_fumo.gif">
 </p>
+Image Source: [sideblogforartstuff](https://www.tumblr.com/sideblogforartstuff/645659231335415809/girl-help-i-got-pixelated)
 
 I just used the amazing [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) tool to make it! Its repository is also well organized and has many gifs demonstrating each command.
 
