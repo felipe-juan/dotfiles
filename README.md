@@ -40,10 +40,9 @@ That said, I'd be happy if someone uses my dotfiles!
 
 ## 🎨 Appearance Information
 
-<p align="left">
-  <img width="500" src="https://github.com/felipe-juan/dotfiles/blob/main/assets/neofetch.png">
+<p align="right">
+  <img width="450" src="https://github.com/felipe-juan/dotfiles/blob/main/assets/neofetch.png">
 </p>
-
 * Fonts: `Roboto Medium` / `Roboto Mono Regular`
 * Terminal: [BlackBox](https://gitlab.gnome.org/raggesilver/blackbox)
 * Shell/GTK Theme: [RosePine-Main-BL](https://github.com/Fausto-Korpsvart/Rose-Pine-GTK-Theme/tree/main/themes)
