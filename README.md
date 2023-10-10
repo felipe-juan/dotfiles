@@ -39,6 +39,11 @@ That said, I'd be happy if someone uses my dotfiles!
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/EVERYTHING%20EVERYWHERE.png)
 
 ## 🎨 Appearance Information
+
+<p align="center">
+  <img width="250" src="https://github.com/felipe-juan/dotfiles/blob/main/assets/neofetch.png">
+</p>
+
 * Fonts: `Roboto Medium` / `Roboto Mono Regular`
 * Terminal: [BlackBox](https://gitlab.gnome.org/raggesilver/blackbox)
 * Shell/GTK Theme: [RosePine-Main-BL](https://github.com/Fausto-Korpsvart/Rose-Pine-GTK-Theme/tree/main/themes)
