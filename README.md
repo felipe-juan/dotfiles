@@ -40,9 +40,6 @@ That said, I'd be happy if someone uses my dotfiles!
 
 ## 🎨 Appearance Information
 
-<p align="right">
-  <img width="450" src="https://github.com/felipe-juan/dotfiles/blob/main/assets/neofetch.png">
-</p>
 * Fonts: `Roboto Medium` / `Roboto Mono Regular`
 * Terminal: [BlackBox](https://gitlab.gnome.org/raggesilver/blackbox)
 * Shell/GTK Theme: [RosePine-Main-BL](https://github.com/Fausto-Korpsvart/Rose-Pine-GTK-Theme/tree/main/themes)
@@ -54,6 +51,11 @@ That said, I'd be happy if someone uses my dotfiles!
 * [`FireFox`](https://github.com/rose-pine/firefox)
 * [`Discord`](https://github.com/rose-pine/discord)
 * [`btop`](https://github.com/rose-pine/btop)
+* 
+<p align="right">
+  <img width="450" src="https://github.com/felipe-juan/dotfiles/blob/main/assets/neofetch.png">
+</p>
+
 
 ## 🧩 Extensions
 ### 🖌️ Visuals-featured Extensions
