@@ -315,7 +315,7 @@ After that, I would recommend to change the following configs, because the defau
 <summary><h3>☑️ To-Do List</h2></summary>
   
 - [ ] Find a less generic wallpaper that fits (I'm not sure if the keyboard switch one is enough)
-- [ ] Create a gallery showing what look like:
+- [ ] Create a gallery showing what look like the:
   - [ ] Other programs (Discord, Firefox, etcera)
   - [ ] Lockscreen, Volume Pop-Up, Shutdown Menu, etcetera
   - Alternatively, I can create a fold list instead
