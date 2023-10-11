@@ -21,6 +21,7 @@
   * [🌎 Better International Keyboard](https://github.com/felipe-juan/dotfiles#-better-international-keyboard)
   * [🖱️ Firefox with Touchpad Gestures](https://github.com/felipe-juan/dotfiles#%EF%B8%8F-firefox-with-touchpad-gestures)
   * [🖥️ Personal Applications List](https://github.com/felipe-juan/dotfiles#%EF%B8%8F-personal-applications-list)
+  * [☑️ To-Do List](https://github.com/felipe-juan/dotfiles/#%EF%B8%8F-to-do-list)
 * [✨ Credits to](https://github.com/felipe-juan/dotfiles#credits-to)
 
 <h1></h1>
@@ -313,10 +314,14 @@ After that, I would recommend to change the following configs, because the defau
 <details>
 <summary><h3>☑️ To-Do List</h2></summary>
   
-- [ ] find a less generic wallpaper that fits (i'm not sure if the keyboard switch one is enough)
-- [ ] create a gallery showing what other programs (discord, firefox) look like 
-- [ ] record and attach gifs demonstrating what each "cool terminal command" does
-- [ ] maybe also attach the files responsible for the keybinding + extensions configs?
+- [ ] Find a less generic wallpaper that fits (I'm not sure if the keyboard switch one is enough)
+- [ ] Create a gallery showing what look like:
+  - [ ] Other programs (Discord, Firefox, etcera)
+  - [ ] Lockscreen, Volume Pop-Up, Shutdown Menu, etcetera
+  - Alternatively, I can create a fold list instead
+- [ ] Record and attach gifs demonstrating what each "cool terminal command" does
+- [ ] Maybe also attach the files responsible for the keybinding + extensions configs?
+- [ ] Packages/Dependencies list
 </details>
 
 ## ✨ Credits to
