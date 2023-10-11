@@ -317,7 +317,7 @@ After that, I would recommend to change the following configs, because the defau
 - [ ] Find a less generic wallpaper that fits (I'm not sure if the keyboard switch one is enough)
 - [ ] Create a gallery showing what look like the:
   - [ ] Other programs (Discord, Firefox, etcera)
-  - [ ] Lockscreen, Volume Pop-Up, Shutdown Menu, etcetera
+  - [ ] Lockscreen, Volume Indicator, Shutdown Menu, etcetera
   - Alternatively, I can create a fold list instead
 - [ ] Record and attach gifs demonstrating what each "cool terminal command" does
 - [ ] Maybe also attach the files responsible for the keybinding + extensions configs?
