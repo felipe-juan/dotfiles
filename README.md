@@ -310,10 +310,19 @@ After that, I would recommend to change the following configs, because the defau
 * Tweaks
 </details>
 
+<details>
+<summary><h3>☑️ To-Do List</h2></summary>
+  
+- [ ] find a less generic wallpaper that fits (i'm not sure if the keyboard switch one is enough)
+- [ ] create a gallery showing what other programs (discord, firefox) look like 
+- [ ] record and attach gifs demonstrating what each "cool terminal command" does
+- [ ] maybe also attach the files responsible for the keybinding + extensions configs?
+</details>
+
 ## ✨ Credits to
 * [u/Steve_Petrov](https://www.reddit.com/r/unixporn/comments/z9iz83/gnome_what_a_funky/) for the neofetch config and idea!
 * [@Aylur](https://github.com/Aylur) for inspiration and making those awesome widgets!
 * [@oae](https://github.com/oae/) for creating the best clipboard software I ever used!
-* A lot of people on the internet that I also took little inspirations from!
+* A lot of people on the internet whom I also took little inspirations from!
 
 <img align="center" width="550" src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.png">
