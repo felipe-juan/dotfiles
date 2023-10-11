@@ -72,6 +72,7 @@ That said, I'd be happy if someone uses my dotfiles!
 * [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)
 * [Gesture Improvements](https://extensions.gnome.org/extension/4245/gesture-improvements/)
 * [Extensions Sync](https://extensions.gnome.org/extension/1486/extensions-sync/)
+* [Search Light](https://extensions.gnome.org/extension/5489/search-light/)
 * [Tiling Assistant](https://extensions.gnome.org/extension/3733/tiling-assistant/)
 * [Pano - Clipboard Manager](https://extensions.gnome.org/extension/5278/pano/)
 * [Pop Shell](https://github.com/pop-os/shell)
