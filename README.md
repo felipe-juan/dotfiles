@@ -314,13 +314,14 @@ After that, I would recommend to change the following configs, because the defau
 <details>
 <summary><h3>☑️ To-Do List</h2></summary>
   
-- [ ] Find a less generic wallpaper that fits (I'm not sure if the keyboard switch one is enough)
+- [ ] Find a less generic wallpaper that fits (I'm not sure if the [keyboard switch one](https://github.com/felipe-juan/dotfiles/blob/main/wallpapers/wallpaper%20mechanical%20switch.png) is enough)
 - [ ] Create a gallery showing what look like the:
   - [ ] Other programs (Discord, Firefox, etcera)
   - [ ] Lockscreen, Volume Indicator, Shutdown Menu, etcetera
   - Alternatively, I can create a fold list instead
 - [ ] Record and attach gifs demonstrating what each "cool terminal command" does
 - [ ] Maybe also attach the files responsible for the keybinding + extensions configs?
+- [ ] Improve the Clock/Data Menu's width; it's a little too compact lol
 - [ ] Packages/Dependencies list
 </details>
 
