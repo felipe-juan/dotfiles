@@ -13,7 +13,7 @@
 * [🧩 Extensions](https://github.com/felipe-juan/dotfiles#-extensions)
   * [🖌️ Visuals-featured](https://github.com/felipe-juan/dotfiles#%EF%B8%8F-visuals-featured-extensions)
   * [🪄 Usability-featured](https://github.com/felipe-juan/dotfiles#-usability-featured-extensions)
-* [⚙️ Software Settings](https://github.com/felipe-juan/dotfiles#%EF%B8%8F-softwares-settings)
+* [⚙️ Softwares Settings](https://github.com/felipe-juan/dotfiles#%EF%B8%8F-softwares-settings)
 * [➕ Extra Stuff](https://github.com/felipe-juan/dotfiles#-extra-stuff)
   * [🌀 Spinning Girl (ASCII GIF on Terminal)](https://github.com/felipe-juan/dotfiles#-spinning-girl-ascii-gif-on-terminal)
   * [⌨️ Keyboard Shortcuts](https://github.com/felipe-juan/dotfiles#%EF%B8%8F-keyboard-shortcuts)
