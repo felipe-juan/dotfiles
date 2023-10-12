@@ -41,6 +41,8 @@ That said, I'd be happy if someone uses my dotfiles!
 
 ## 🎨 Appearance Information
 
+ <img align="right" width="520" src="https://github.com/felipe-juan/dotfiles/blob/main/assets/neofetch%201.png">
+
 * Fonts: `Roboto Medium` / `Roboto Mono Regular`
 * Terminal: [Black Box](https://gitlab.gnome.org/raggesilver/blackbox)
 * Shell/GTK Theme: [RosePine-Main-BL](https://www.gnome-look.org/p/1810530/)
@@ -49,8 +51,6 @@ That said, I'd be happy if someone uses my dotfiles!
   - [Source](https://github.com/Fausto-Korpsvart/Catppuccin-GTK-Theme/tree/main/icons)
 * Cursor Theme: [Sunity](https://www.gnome-look.org/p/1703043/)
   - [Source](https://github.com/alvatip/Sunity-cursors)
-
- <img align="right" width="520" src="https://github.com/felipe-juan/dotfiles/blob/main/assets/neofetch%201.png">
 
 ### Rosé Pine Theme for:
 * [`Black Box`](https://github.com/rose-pine/black-box)
