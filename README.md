@@ -41,7 +41,7 @@ That said, I'd be happy if someone uses my dotfiles!
 
 ## 🎨 Appearance Information
 
- <img align="right" width="500" src="https://github.com/felipe-juan/dotfiles/blob/main/assets/neofetch.png">
+ <img align="right" width="520" src="https://github.com/felipe-juan/dotfiles/blob/main/assets/neofetch.png">
 
 * Fonts: `Roboto Medium` / `Roboto Mono Regular`
 * Terminal: [BlackBox](https://gitlab.gnome.org/raggesilver/blackbox)
