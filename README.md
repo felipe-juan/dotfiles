@@ -323,6 +323,7 @@ After that, I would recommend to change the following configs, because the defau
 - [ ] Record and attach gifs demonstrating what each "cool terminal command" does
 - [ ] Maybe also attach the files responsible for the keybinding + extensions configs?
 - [ ] Improve the Clock/Data Menu's width; it's a little too compact lol
+- [ ] Replace the current showcase images with gifs instead (at least, of the overview); it'd be a nice touch
 - [ ] Create a Packages/Dependencies list
 </details>
 
