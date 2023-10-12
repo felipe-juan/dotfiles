@@ -45,9 +45,12 @@ That said, I'd be happy if someone uses my dotfiles!
 
 * Fonts: `Roboto Medium` / `Roboto Mono Regular`
 * Terminal: [BlackBox](https://gitlab.gnome.org/raggesilver/blackbox)
-* Shell/GTK Theme: [RosePine-Main-BL](https://github.com/Fausto-Korpsvart/Rose-Pine-GTK-Theme/tree/main/themes)
-* Icons Theme: [Catppuccin-Mocha](https://github.com/Fausto-Korpsvart/Catppuccin-GTK-Theme/tree/main/icons)
-* Cursor Theme: [Sunity](https://github.com/alvatip/Sunity-cursors)
+* Shell/GTK Theme: [RosePine-Main-BL](https://www.gnome-look.org/p/1810530/)
+  - [Source](https://github.com/Fausto-Korpsvart/Rose-Pine-GTK-Theme/tree/main/themes)
+* Icons Theme: [Catppuccin-Mocha](https://www.gnome-look.org/p/1715570)
+  - [Source](https://github.com/Fausto-Korpsvart/Catppuccin-GTK-Theme/tree/main/icons)
+* Cursor Theme: [Sunity](https://www.gnome-look.org/p/1703043/)
+  - [Source](https://github.com/alvatip/Sunity-cursors)
 ### Rosé Pine Theme for:
 * [`BlackBox`](https://github.com/rose-pine/black-box)
 * [`Gnome Text Editor`](https://github.com/Fausto-Korpsvart/Rose-Pine-GTK-Theme/tree/main/extra/text-editor)
@@ -123,6 +126,12 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/color%20picker.png)
 </details>
 
+<details>
+<summary><b>Dash to Dock (WIP</b></summary>
+
+![]()
+![]()
+</details>
 
 <details>
 <summary><b>Desktop Clock</b></summary>
