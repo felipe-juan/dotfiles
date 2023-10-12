@@ -44,7 +44,7 @@ That said, I'd be happy if someone uses my dotfiles!
  <img align="right" width="520" src="https://github.com/felipe-juan/dotfiles/blob/main/assets/neofetch.png">
 
 * Fonts: `Roboto Medium` / `Roboto Mono Regular`
-* Terminal: [BlackBox](https://gitlab.gnome.org/raggesilver/blackbox)
+* Terminal: [Black Box](https://gitlab.gnome.org/raggesilver/blackbox)
 * Shell/GTK Theme: [RosePine-Main-BL](https://www.gnome-look.org/p/1810530/)
   - [Source](https://github.com/Fausto-Korpsvart/Rose-Pine-GTK-Theme/tree/main/themes)
 * Icons Theme: [Catppuccin-Mocha](https://www.gnome-look.org/p/1715570)
@@ -52,7 +52,7 @@ That said, I'd be happy if someone uses my dotfiles!
 * Cursor Theme: [Sunity](https://www.gnome-look.org/p/1703043/)
   - [Source](https://github.com/alvatip/Sunity-cursors)
 ### Rosé Pine Theme for:
-* [`BlackBox`](https://github.com/rose-pine/black-box)
+* [`Black Box`](https://github.com/rose-pine/black-box)
 * [`Gnome Text Editor`](https://github.com/Fausto-Korpsvart/Rose-Pine-GTK-Theme/tree/main/extra/text-editor)
 * [`FireFox`](https://github.com/rose-pine/firefox)
 * [`Discord`](https://github.com/rose-pine/discord)
@@ -306,7 +306,7 @@ After that, I would recommend to change the following configs, because the defau
 
 * Anki
 * BetterDiscord 
-* BlackBox 
+* Black Box 
 * Discord 
 * Extension Manager (Matthew Jakeman)
 * Firefox
