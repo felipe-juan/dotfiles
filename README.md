@@ -63,7 +63,6 @@ That said, I'd be happy if someone uses my dotfiles!
 ### 🖌️ Visuals-featured Extensions
 * [Aylur's Widget](https://extensions.gnome.org/extension/5338/aylurs-widgets/)
 * [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)
-* [Desktop Clock](https://extensions.gnome.org/extension/5156/desktop-clock/)
 * [Gnome 4x UI Improvements](https://extensions.gnome.org/extension/4158/gnome-40-ui-improvements/)
 * [Just Perfection](https://extensions.gnome.org/extension/3843/just-perfection/)
 * [Rounded Corners](https://extensions.gnome.org/extension/5237/rounded-window-corners/)
@@ -134,12 +133,6 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/dash%20to%20dock%202.png)
 </details>
 
-<details>
-<summary><b>Desktop Clock</b></summary>
-
-![](https://github.com/felipe-juan/dotfiles/blob/main/assets/desktop%20widget%201.png)
-![](https://github.com/felipe-juan/dotfiles/blob/main/assets/desktop%20widget%202.png)
-</details>
 
 <details>
 <summary><b>Gesture Improvements</b></summary>
@@ -297,9 +290,11 @@ Make sure that the configurations related to kinetic touchpad are enabled on `ab
 
 After that, I would recommend to change the following configs, because the default speed is too fast:
 
+`mousewheel.default.delta_multiplier_x` = 20
+
 `mousewheel.default.delta_multiplier_y` = 20
 
-`mousewheel.default.delta_multiplier_x` = 20
+`mousewheel.default.delta_multiplier_z` = 20
 </details>
 
 <details>
