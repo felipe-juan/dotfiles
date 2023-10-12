@@ -129,8 +129,8 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 <details>
 <summary><b>Dash to Dock (WIP</b></summary>
 
-![]()
-![]()
+![](https://github.com/felipe-juan/dotfiles/blob/main/assets/dash%20to%20dock%201.png)
+![](https://github.com/felipe-juan/dotfiles/blob/main/assets/dash%20to%20dock%202.png)
 </details>
 
 <details>
