@@ -96,6 +96,7 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 
 <details>
 <summary><b>Aylur's Widgets</b></summary>
+  
 `%H:%M | %A %d %b`
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/arylurs_widgets.png)
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/background_clock.png)
