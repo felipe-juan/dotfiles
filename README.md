@@ -255,7 +255,7 @@ If I remember correctly, this was the command I used:
 |Hide Window| <kbd>Super</kbd> + <kbd>Down</kbd>|
 |Toggle Maximization State|<kbd>Super</kbd> + <kbd>Up</kbd>|
 
-| Tiling (with PopShell) | Keybinding  |
+| Tiling (with Pop Shell) | Keybinding  |
 |---|---|
 |Toggle Stacking Mode| <kbd>Super</kbd> + <kbd>Q</kbd>|
 
