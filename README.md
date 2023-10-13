@@ -173,7 +173,7 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 <details>
 <summary><b>Pop Shell</b></summary>
 
-![](https://github.com/felipe-juan/dotfiles/blob/main/assets/pop%20shell%201.png)
+![](https://github.com/felipe-juan/dotfiles/blob/main/assets/popshell1.png)
 </details>
 
 <details>
@@ -320,13 +320,17 @@ After that, I would recommend to change the following configs, because the defau
 <details>
 <summary><h3>☑️ To-Do List</h2></summary>
   
-- [ ] Find a less generic wallpaper that fits (I'm not sure if the [keyboard switch one](https://github.com/felipe-juan/dotfiles/blob/main/wallpapers/wallpaper%20mechanical%20switch.png) is enough)
+- [x] Find a less generic wallpaper that fits (I'm not sure if the [keyboard switch one](https://github.com/felipe-juan/dotfiles/blob/main/wallpapers/wallpaper%20mechanical%20switch.png) is enough)
+  - [This wallpaper](https://github.com/felipe-juan/dotfiles/blob/main/wallpapers/wallpaper_pool.png) will be my new default from now on. Although it's not as unused as I'd like it to be, it looks really nice with Rosé Pine.
 - [ ] Create a gallery showing what look like the:
   - [ ] Other programs (Discord, Firefox, etcera)
   - [ ] Lockscreen, Volume Indicator, Shutdown Menu, etcetera
   - Alternatively, I can create a fold list instead
 - [ ] Record and attach gifs demonstrating what each "cool terminal command" does
-- [ ] Maybe also attach the files responsible for the keybinding + extensions configs?
+- [x] Maybe also attach the files responsible for the keybinding + extensions configs?
+  - So I discovered the [Extensions Sync](https://github.com/oae/gnome-shell-extensions-sync), and I've been updating the [extensions-sync.json](https://github.com/felipe-juan/dotfiles/blob/main/.config/extensions-sync.json) file with the new informations.
+  - Technically, anyone can have all my keybindings + tweaks/extensions settings if they move this file to ~/.config and "download" file with the extension:
+  - ~[](https://github.com/felipe-juan/dotfiles/blob/main/assets/extensions%20sync.png)
 - [ ] Replace the current showcase images with gifs instead (at least, of the overview); it'd be a nice touch
 - [ ] Create a Packages/Dependencies list
 </details>
