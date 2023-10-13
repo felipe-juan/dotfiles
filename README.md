@@ -286,17 +286,17 @@ That's why I found [this guide on GitHub](https://github.com/raelgc/win_us_intl)
 <details>
 <summary><h3>🖱️ Firefox with Touchpad Gestures</h2></summary>
 
-Make sure that the configurations related to kinetic touchpad are enabled on `about:config`, including:
+Make sure you have a Firefox with Wayland enabled. There are a few ways to do that - installing the `firefox-wayland` package worked for me. 
 
-`MOZ_ENABLE_WAYLAND` = 1
+You can also get it enabled by default on [Firefox Nightly](https://github.com/Linux-Is-Best/Firefox-automatic-install-for-Linux), though I wouldn't recommend to use a under heavy development browser just for something like this.
 
-After that, I would recommend to change the following configs, because the default speed is too fast:
+After that, I would recommend to change the following things on `about:config`, because the default speed is insanely too fast:
 
-`mousewheel.default.delta_multiplier_x` = 20
+`mousewheel.default.delta_multiplier_x` = 15
 
-`mousewheel.default.delta_multiplier_y` = 20
+`mousewheel.default.delta_multiplier_y` = 15
 
-`mousewheel.default.delta_multiplier_z` = 20
+`mousewheel.default.delta_multiplier_z` = 15
 </details>
 
 <details>
