@@ -313,9 +313,10 @@ After that, I would recommend to change the following things on `about:config`, 
 * Discord 
 * Extension Manager (Matthew Jakeman)
 * Firefox
-* Foliarte
-* Footage
+* Foliarte (e-book reader)
+* Footage (quickly video editor)
 * KDE Connect
+* Kooha (screen recorder)
 * Obsidian
 * onedriver
 * OnlyOffice
