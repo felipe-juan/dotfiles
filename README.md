@@ -97,7 +97,7 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 <details>
 <summary><b>Aylur's Widgets</b></summary>
 
-![](https://github.com/felipe-juan/dotfiles/blob/main/assets/aylurswidgetsmenu.png)
+![](https://github.com/felipe-juan/dotfiles/blob/main/assets/arylurs_widgets.png)
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/quicksettingstweaks.png)
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/workspaceindicator.png)
 ![dsads](https://github.com/felipe-juan/dotfiles/blob/main/assets/aylur's%20widgets%202.png)
