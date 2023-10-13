@@ -99,7 +99,8 @@ If I seem to have left some settings behind, it's because I didn't change them, 
   
 `%H:%M | %A %d %b`
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/arylurs_widgets.png)
-![](https://github.com/felipe-juan/dotfiles/blob/main/assets/background_clock.png)
+![](https://github.com/felipe-juan/dotfiles/blob/main/assets/background_clock_clock.png)
+![](https://github.com/felipe-juan/dotfiles/blob/main/assets/background_clock_data.png)
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/date_menu_tweaks.png)
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/quicksettingstweaks.png)
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/workspaceindicator.png)
