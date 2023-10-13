@@ -139,7 +139,7 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 <details>
 <summary><b>Gesture Improvements</b></summary>
 
-![](https://github.com/felipe-juan/dotfiles/blob/main/assets/gestures%20improvements%201.png)
+![](https://github.com/felipe-juan/dotfiles/blob/main/assets/gestures_improvementss.png)
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/gestures%20improvements%202.png)
 </details>
 
@@ -253,6 +253,10 @@ If I remember correctly, this was the command I used:
 |---|---|
 |Hide Window| <kbd>Super</kbd> + <kbd>Down</kbd>|
 |Toggle Maximization State|<kbd>Super</kbd> + <kbd>Up</kbd>|
+
+| Tiling (with PopShell) | Keybinding  |
+|---|---|
+|Toggle Stacking Mode| <kbd>Super</kbd> + <kbd>Q</kbd>|
 
 |Custom|Keybinding |
 |---|---|
