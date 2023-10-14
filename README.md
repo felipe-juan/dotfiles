@@ -163,7 +163,7 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/just%20perfection%201.png)
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/just%20perfection%202.png)
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/just%20perfection%203.png)
-![](https://github.com/felipe-juan/dotfiles/blob/main/assets/just%20perfection%204.png)
+![](https://github.com/felipe-juan/dotfiles/blob/main/assets/just%20perfection%20customize.png)
 </details>
 
 <details>
