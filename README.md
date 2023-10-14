@@ -322,6 +322,7 @@ After that, I would recommend to change the following things on `about:config`, 
 * Obsidian
 * onedriver
 * OnlyOffice
+* Spotify (with [SpotX script](https://github.com/SpotX-Official/SpotX-Bash/tree/main))
 * SyncThing GTK
 * TickTick
 * Tweaks
