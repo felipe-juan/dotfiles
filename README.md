@@ -1,7 +1,7 @@
 <h1 align=center>Felipe Juan's Dotfiles</h1>
 
 <p align="center">
-  <img width="200" src="https://raw.githubusercontent.com/rose-pine/rose-pine-theme/main/assets/palette.png">
+  <img width="150" src="https://raw.githubusercontent.com/rose-pine/rose-pine-theme/main/assets/palette.png">
 </p>
 
 <p align="center">
