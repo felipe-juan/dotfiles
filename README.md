@@ -55,7 +55,8 @@ That said, I'd be happy if someone uses my dotfiles!
 ### Rosé Pine Theme for:
 * [`Black Box`](https://github.com/rose-pine/black-box)
 * [`Gnome Text Editor`](https://github.com/Fausto-Korpsvart/Rose-Pine-GTK-Theme/tree/main/extra/text-editor)
-* [`FireFox`](https://github.com/rose-pine/firefox)
+* [`Firefox`](https://github.com/rose-pine/firefox)
+* [`Spicetify`](https://github.com/spicetify/spicetify-themes/tree/master/Sleek)
 * [`Discord`](https://github.com/rose-pine/discord)
 * [`btop`](https://github.com/rose-pine/btop)
   
