@@ -1,5 +1,7 @@
 <h1 align=center>Felipe Juan's Dotfiles</h1>
 
+<img align="center" width="200" src="https://raw.githubusercontent.com/rose-pine/rose-pine-theme/main/assets/palette.png">
+
 <p align="center">
   <img width="720" src="https://github.com/felipe-juan/dotfiles/blob/main/assets/video(1).gif">
 </p>
@@ -352,5 +354,3 @@ After that, I would recommend to change the following things on `about:config`, 
 * [@Aylur](https://github.com/Aylur) for inspiration and making those awesome widgets!
 * [@oae](https://github.com/oae/) for creating the best clipboard software I ever used!
 * A lot of people on the internet whom I also took little inspirations from!
-
-<img align="center" width="550" src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.png">
