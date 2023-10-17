@@ -1,6 +1,6 @@
 <h1 align=center>Felipe Juan's Dotfiles</h1>
 
-<img align="center" width="200" src="https://raw.githubusercontent.com/rose-pine/rose-pine-theme/main/assets/palette.png">
+<img align="center" width="100" src="https://raw.githubusercontent.com/rose-pine/rose-pine-theme/main/assets/palette.png">
 
 <p align="center">
   <img width="720" src="https://github.com/felipe-juan/dotfiles/blob/main/assets/video(1).gif">
