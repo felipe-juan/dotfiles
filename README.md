@@ -344,8 +344,8 @@ After that, I would recommend to change the following things on `about:config`, 
   - Alternatively, I can create a fold list instead
 - [ ] Record and attach gifs demonstrating what each "cool terminal command" does
 - [x] Maybe also attach the files responsible for the keybinding + extensions configs?
-  - So I discovered the [Extensions Sync](https://github.com/oae/gnome-shell-extensions-sync), and I've been updating the [extensions-sync.json](https://github.com/felipe-juan/dotfiles/blob/main/.config/extensions-sync.json) the file with new informations.
-  - Technically, anyone can have all my keybindings + tweaks/extensions settings if they move this file to ~/.config and "download" file with the extension.
+  - So I discovered the [Extensions Sync](https://github.com/oae/gnome-shell-extensions-sync), and I've been updating the [extensions-sync.json](https://github.com/felipe-juan/dotfiles/blob/main/.config/extensions-sync.json) file with new informations.
+  - In theory, anyone can have all my keybindings + tweaks/extensions settings if they move this file to ~/.config of the extension.
   - <img align="center" width="400" src="https://github.com/felipe-juan/dotfiles/blob/main/assets/extensions%20sync.png">
 - [ ] Replace the current showcase images with gifs instead (at least, of the overview); it'd be a nice touch
 - [ ] Create a Packages/Dependencies list
