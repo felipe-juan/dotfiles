@@ -337,7 +337,7 @@ After that, I would recommend to change the following things on `about:config`, 
 <summary><h3>☑️ To-Do List</h2></summary>
   
 - [x] Find a less generic wallpaper that fits (I'm not sure if the [keyboard switch one](https://github.com/felipe-juan/dotfiles/blob/main/wallpapers/wallpaper%20mechanical%20switch.png) is enough)
-  - [This wallpaper](https://github.com/felipe-juan/dotfiles/blob/main/wallpapers/wallpaper_pool.png) will be my new default from now on. Although it's not as unused as I'd like it to be, it looks really nice with Rosé Pine.
+  - [This wallpaper](https://github.com/felipe-juan/dotfiles/blob/main/wallpapers/wallpaper_pool.png) will be my new default from now on. Although it's not as unpopular as I'd like it to be, it looks really nice with Rosé Pine.
 - [ ] Create a gallery showing what look like the:
   - [ ] Other programs (Discord, Firefox, etcera)
   - [ ] Lockscreen, Volume Indicator, Shutdown Menu, etcetera
