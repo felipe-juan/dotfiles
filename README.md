@@ -199,12 +199,6 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/tiling%20assistant%204.png)
 </details>
 
-<details>
-<summary><b>Unite</b></summary>
-  
-![](https://github.com/felipe-juan/dotfiles/blob/main/assets/Screenshot%20from%202024-10-21%2020-23-36.png)
-</details>
-
 ## ➕ Extra Stuff
 <details>
 <summary><h3>🌀 Spinning Girl (ASCII GIF on Terminal)</h2></summary>
