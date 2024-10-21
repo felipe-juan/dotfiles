@@ -315,12 +315,11 @@ After that, I would recommend to change the following things on `about:config`, 
 <details>
 <summary><h3>🖥️ Personal Applications List</h2></summary>
 
-* Anki
-* BetterDiscord 
+* Anki 
 * Black Box
 * Calibre
 * Davinci Resolve
-* Discord 
+* Discord + Vencord
 * Extension Manager (Matthew Jakeman)
 * Firefox
 * Foliarte (e-book reader)
