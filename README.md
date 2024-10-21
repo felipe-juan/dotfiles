@@ -84,7 +84,6 @@ That said, I'd be happy if someone uses my dotfiles!
 * [Pano - Clipboard Manager](https://extensions.gnome.org/extension/5278/pano/)
 * [Pop Shell](https://github.com/pop-os/shell) / [Forge](https://extensions.gnome.org/extension/4481/forge/)
 * [Quick Close in Overview](https://extensions.gnome.org/extension/352/middle-click-to-close-in-overview/)
-* [Search Light](https://extensions.gnome.org/extension/5489/search-light/)
 * [Tiling Assistant](https://extensions.gnome.org/extension/3733/tiling-assistant/)
 
 ## ⚙️ Softwares Settings
