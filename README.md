@@ -317,7 +317,9 @@ After that, I would recommend to change the following things on `about:config`, 
 
 * Anki
 * BetterDiscord 
-* Black Box 
+* Black Box
+* Calibre
+* Davinci Resolve
 * Discord 
 * Extension Manager (Matthew Jakeman)
 * Firefox
@@ -325,11 +327,14 @@ After that, I would recommend to change the following things on `about:config`, 
 * Footage (quickly video editor)
 * KDE Connect
 * Kooha (screen recorder)
+* Krita
 * LocalSend
 * Obsidian
 * onedriver
 * OnlyOffice
+* qBittorrent
 * Spicetify
+* Steam
 * SyncThing GTK
 * Telegram
 * TickTick
