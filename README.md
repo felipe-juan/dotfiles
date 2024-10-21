@@ -66,7 +66,7 @@ That said, I'd be happy if someone uses my dotfiles!
   
 ## 🧩 Extensions
 ### 🖌️ Visuals-featured Extensions
-* [Aylur's Widget](https://extensions.gnome.org/extension/5338/aylurs-widgets/) / [Media Controls](https://extensions.gnome.org/extension/4470/media-controls/) + [Vitals](https://extensions.gnome.org/extension/1460/vitals/)
+* [Aylur's Widget](https://extensions.gnome.org/extension/5338/aylurs-widgets/) / [Media Controls](https://extensions.gnome.org/extension/4470/media-controls/) + [Vitals](https://extensions.gnome.org/extension/1460/vitals/) + [Compact Top Bar](https://extensions.gnome.org/extension/5669/compact-top-bar/)
 * [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)
 * [Gnome 4x UI Improvements](https://extensions.gnome.org/extension/4158/gnome-40-ui-improvements/)
 * [Just Perfection](https://extensions.gnome.org/extension/3843/just-perfection/)
