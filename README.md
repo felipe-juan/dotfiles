@@ -332,8 +332,9 @@ After that, I would recommend to change the following things on `about:config`, 
 * onedriver
 * OnlyOffice
 * qBittorrent
-* Spicetify
+* Spotify
 * Steam
+* Stremio
 * SyncThing GTK
 * Telegram
 * TickTick
