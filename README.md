@@ -72,6 +72,7 @@ That said, I'd be happy if someone uses my dotfiles!
 * [Just Perfection](https://extensions.gnome.org/extension/3843/just-perfection/)
 * [Rounded Corners](https://extensions.gnome.org/extension/5237/rounded-window-corners/)
 * [Transparent Window Moving](https://extensions.gnome.org/extension/1446/transparent-window-moving/)
+* [Unite](https://extensions.gnome.org/extension/1287/unite/)
 * [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
 
 ### 🪄 Usability-featured Extensions
@@ -81,7 +82,7 @@ That said, I'd be happy if someone uses my dotfiles!
 * [Gesture Improvements](https://extensions.gnome.org/extension/4245/gesture-improvements/)
 * [Extensions Sync](https://extensions.gnome.org/extension/1486/extensions-sync/)
 * [Pano - Clipboard Manager](https://extensions.gnome.org/extension/5278/pano/)
-* [Pop Shell](https://github.com/pop-os/shell)
+* [Pop Shell](https://github.com/pop-os/shell) / [Forge](https://extensions.gnome.org/extension/4481/forge/)
 * [Quick Close in Overview](https://extensions.gnome.org/extension/352/middle-click-to-close-in-overview/)
 * [Search Light](https://extensions.gnome.org/extension/5489/search-light/)
 * [Tiling Assistant](https://extensions.gnome.org/extension/3733/tiling-assistant/)
@@ -324,11 +325,13 @@ After that, I would recommend to change the following things on `about:config`, 
 * Footage (quickly video editor)
 * KDE Connect
 * Kooha (screen recorder)
+* LocalSend
 * Obsidian
 * onedriver
 * OnlyOffice
 * Spicetify
 * SyncThing GTK
+* Telegram
 * TickTick
 * Tweaks
 </details>
