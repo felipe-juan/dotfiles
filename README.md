@@ -255,7 +255,7 @@ If I remember correctly, this was the command I used:
 |---|---|
 |Lock screen | <kbd>Super</kbd> + <kbd>L</kbd> |
 |Show All Apps| <kbd>Super</kbd> + <kbd>A</kbd> |
-|Show the Notification List | `Disabled` |
+|Show the Notification List | <kbd>Super</kbd> + <kbd>N</kbd> |
 |Show the Overview | <kbd>Super</kbd> + <kbd>Tab</kbd> |
 
 | Windows | Keybinding  |
