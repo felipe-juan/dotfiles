@@ -23,6 +23,7 @@
   * [⌨️ Keyboard Shortcuts](https://github.com/felipe-juan/dotfiles#%EF%B8%8F-keyboard-shortcuts)
   * [😎 Cool Terminal Commands](https://github.com/felipe-juan/dotfiles#-cool-terminal-commands)
   * [🌎 Better International Keyboard](https://github.com/felipe-juan/dotfiles#-better-international-keyboard)
+  * [🖦 Alt + Drag to Move the Window](https://github.com/felipe-juan/dotfiles#-alt-drag-to-move-the-window)
   * [🖱️ Firefox with Touchpad Gestures](https://github.com/felipe-juan/dotfiles#%EF%B8%8F-firefox-with-touchpad-gestures)
   * [🖥️ Personal Applications List](https://github.com/felipe-juan/dotfiles#%EF%B8%8F-personal-applications-list)
   * [☑️ To-Do List](https://github.com/felipe-juan/dotfiles/#%EF%B8%8F-to-do-list)
@@ -290,8 +291,18 @@ If I remember correctly, this was the command I used:
   
 For context, there is a different behavior (and less practical) than Windows on the international keyboard. To type "acentos", you always have to press space before each key, even if the next key isn't a "compatible letter" (like a consoant). 
 
-That's why I found [this guide on GitHub](https://github.com/raelgc/win_us_intl) that has solutions to this problem.
+That's why I found [this guide on GitHub](https://github.com/raelgc/win_us_intl) that has solutions to this problem. This worked perfectly for me (after logging off to take effect):
+`cd ~
+wget https://raw.githubusercontent.com/raelgc/win_us_intl/master/.XCompose`
+</details>
 
+
+<details>
+<summary><h3>🖦 Alt + Drag to Move the Window</h2></summary>
+
+It's just way better to move a window instead placing the cursor at the right spot. 
+`gsettings set org.gnome.desktop.wm.preferences mouse-button-modifier '<Alt>'`
+`gsettings set org.gnome.desktop.wm.preferences resize-with-right-button true`
 </details>
 
 <details>
