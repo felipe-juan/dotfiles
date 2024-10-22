@@ -310,7 +310,6 @@ It's just way better to move a window instead placing the cursor at the right sp
 
 <details>
 <summary><h3>🖱️ Firefox with Touchpad Gestures</h2></summary>
-https://github.com/felipe-juan/dotfiles?tab=readme-ov-file#-alt--drag-to-move-the-window
 Make sure you have a Firefox with Wayland enabled. There are a few ways to do that - installing the `firefox-wayland` package worked for me. 
 
 You can also get it enabled by default on [Firefox Nightly](https://github.com/Linux-Is-Best/Firefox-automatic-install-for-Linux), though I wouldn't recommend to use a under heavy development browser just for something like this.
