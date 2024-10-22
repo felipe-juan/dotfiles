@@ -23,7 +23,7 @@
   * [⌨️ Keyboard Shortcuts](https://github.com/felipe-juan/dotfiles#%EF%B8%8F-keyboard-shortcuts)
   * [😎 Cool Terminal Commands](https://github.com/felipe-juan/dotfiles#-cool-terminal-commands)
   * [🌎 Better International Keyboard](https://github.com/felipe-juan/dotfiles#-better-international-keyboard)
-  * [🖦 Alt + Drag to Move the Window](https://github.com/felipe-juan/dotfiles#-alt-drag-to-move-the-window)
+  * [🖦 Alt + Drag to Move the Window](https://github.com/felipe-juan/dotfiles?tab=readme-ov-file#-alt--drag-to-move-the-window)
   * [🖱️ Firefox with Touchpad Gestures](https://github.com/felipe-juan/dotfiles#%EF%B8%8F-firefox-with-touchpad-gestures)
   * [🖥️ Personal Applications List](https://github.com/felipe-juan/dotfiles#%EF%B8%8F-personal-applications-list)
   * [☑️ To-Do List](https://github.com/felipe-juan/dotfiles/#%EF%B8%8F-to-do-list)
@@ -301,13 +301,16 @@ wget https://raw.githubusercontent.com/raelgc/win_us_intl/master/.XCompose`
 <summary><h3>🖦 Alt + Drag to Move the Window</h2></summary>
 
 It's just way better to move a window instead placing the cursor at the right spot. 
+
 `gsettings set org.gnome.desktop.wm.preferences mouse-button-modifier '<Alt>'`
+
 `gsettings set org.gnome.desktop.wm.preferences resize-with-right-button true`
+
 </details>
 
 <details>
 <summary><h3>🖱️ Firefox with Touchpad Gestures</h2></summary>
-
+https://github.com/felipe-juan/dotfiles?tab=readme-ov-file#-alt--drag-to-move-the-window
 Make sure you have a Firefox with Wayland enabled. There are a few ways to do that - installing the `firefox-wayland` package worked for me. 
 
 You can also get it enabled by default on [Firefox Nightly](https://github.com/Linux-Is-Best/Firefox-automatic-install-for-Linux), though I wouldn't recommend to use a under heavy development browser just for something like this.
