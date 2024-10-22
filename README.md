@@ -221,6 +221,9 @@ If I remember correctly, this was the command I used:
 <summary><h3>⌨️ Keyboard Shortcuts</h2></summary>
 
   Since I'm coming from Windows, most of the shortcuts I made were just the same as they were there. I highly recommend you do the same if you used these shortcuts on Windows too!
+  
+By the way, related to the Window Switch recommend, I highly recommend disabling switching for the only current workspace, if you care for that:
+`gsettings set org.gnome.shell.window-switcher current-workspace-only false`
 
 | Launchers| Keybinding |
 |---|---|
