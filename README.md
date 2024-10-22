@@ -81,7 +81,6 @@ That said, I'd be happy if someone uses my dotfiles!
 * [Color Picker](https://extensions.gnome.org/extension/3396/color-picker/)
 * [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)
 * [Gesture Improvements](https://extensions.gnome.org/extension/4245/gesture-improvements/)
-* [Extensions Sync](https://extensions.gnome.org/extension/1486/extensions-sync/)
 * [Pano - Clipboard Manager](https://extensions.gnome.org/extension/5278/pano/)
 * [Pop Shell](https://github.com/pop-os/shell) / [Forge](https://extensions.gnome.org/extension/4481/forge/)
 * [Quick Close in Overview](https://extensions.gnome.org/extension/352/middle-click-to-close-in-overview/)
