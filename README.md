@@ -344,6 +344,7 @@ After that, I would recommend to change the following things on `about:config`, 
 * LocalSend
 * Obsidian
 * OnlyOffice
+* Papers (modern documents viewer)
 * qBittorrent
 * Spotify
 * Steam
