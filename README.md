@@ -333,16 +333,16 @@ After that, I would recommend to change the following things on `about:config`, 
 * Calibre
 * Davinci Resolve
 * Discord + Vencord
+* Drawing (quick image editor)
 * Extension Manager (Matthew Jakeman)
 * Firefox
 * Foliarte (e-book reader)
-* Footage (quickly video editor)
+* Footage (quick video editor)
 * KDE Connect
-* Kooha (screen recorder)
+* Kooha (screen recorder+)
 * Krita
 * LocalSend
 * Obsidian
-* onedriver
 * OnlyOffice
 * qBittorrent
 * Spotify
@@ -369,7 +369,6 @@ After that, I would recommend to change the following things on `about:config`, 
   - In theory, anyone can have all my keybindings + tweaks/extensions settings if they move this file to ~/.config of the extension.
   - <img align="center" width="400" src="https://github.com/felipe-juan/dotfiles/blob/main/assets/extensions%20sync.png">
 - [ ] Replace the current showcase images with gifs instead (at least, of the overview); it'd be a nice touch
-- [ ] Create a Packages/Dependencies list
 </details>
 
 ## ✨ Credits to
