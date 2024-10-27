@@ -74,7 +74,6 @@ That said, I'd be happy if someone uses my dotfiles!
 * [Rounded Window Corners Reborn](https://extensions.gnome.org/extension/7048/rounded-window-corners-reborn/)
 * [Transparent Window Moving](https://extensions.gnome.org/extension/1446/transparent-window-moving/)
 * [Unite](https://extensions.gnome.org/extension/1287/unite/)
-* [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
 
 ### 🪄 Usability-featured Extensions
 * [ArcMenu](https://extensions.gnome.org/extension/3628/arcmenu/)
