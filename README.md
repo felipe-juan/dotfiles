@@ -271,7 +271,7 @@ By the way, related to the Window Switch recommend, I highly recommend disabling
 |Custom|Keybinding |
 |---|---|
 |BlackBox `com.raggesilver.BlackBox` | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd> |
-|System Monitor (aka Task Manager) `gnome-system-monitor` | <kbd>Shift</kbd> + <kbd>Ctrl</kbd> + <kbd>Esc</kbd>|
+|System Monitor (aka Task Manager) `gnome-system-monitor` | <kbd>Shift</kbd> + <kbd>Shift</kbd> + <kbd>Esc</kbd>|
 </details>
 
 <details>
