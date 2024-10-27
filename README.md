@@ -71,7 +71,7 @@ That said, I'd be happy if someone uses my dotfiles!
 * [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)
 * [Gnome 4x UI Improvements](https://extensions.gnome.org/extension/4158/gnome-40-ui-improvements/)
 * [Just Perfection](https://extensions.gnome.org/extension/3843/just-perfection/)
-* [Rounded Corners](https://extensions.gnome.org/extension/5237/rounded-window-corners/)
+* [Rounded Window Corners Reborn](https://extensions.gnome.org/extension/7048/rounded-window-corners-reborn/)
 * [Transparent Window Moving](https://extensions.gnome.org/extension/1446/transparent-window-moving/)
 * [Unite](https://extensions.gnome.org/extension/1287/unite/)
 * [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
