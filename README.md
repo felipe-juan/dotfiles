@@ -344,7 +344,7 @@ After that, I would recommend to change the following things on `about:config`, 
 * OnlyOffice
 * Papers 
 * qBittorrent
-* Spotify
+* Spotify + SpotX
 * Steam
 * Stremio
 * SyncThing
