@@ -42,7 +42,7 @@ Kudos to the best clipboard manager ever (my beloved [Pano extension](https://gi
 > It's crucial to change several extensions if you want to achieve the same look, so please check out the screenshots on **[Software Settings](https://github.com/felipe-juan/dotfiles/blob/main/README.md#software-settings)** to see what I've changed.
 That said, I'd be happy if someone uses my dotfiles!
 
-![](https://github.com/felipe-juan/dotfiles/blob/main/assets/EVERYTHING%20EVERYWHERE.png)
+![](https://github.com/felipe-juan/dotfiles/blob/main/assets/EVERYTHING%20EVERYWHApp HiderERE.png)
 
 ## 🎨 Appearance Information
 
@@ -108,8 +108,8 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/date_menu_tweaks.png)
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/quicksettingstweaks.png)
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/workspaceindicator.png)
-![dsadsa](https://github.com/felipe-juan/dotfiles/blob/main/assets/aylur's%20widgets%203.png)
-![dsadsa](https://github.com/felipe-juan/dotfiles/blob/main/assets/aylur's%20widgets%204.png)
+![](https://github.com/felipe-juan/dotfiles/blob/main/assets/aylur's%20widgets%203.png)
+![](https://github.com/felipe-juan/dotfiles/blob/main/assets/aylur's%20widgets%204.png)
 </details>
 
 <details>
@@ -329,29 +329,30 @@ After that, I would recommend to change the following things on `about:config`, 
 
 * Anki 
 * Black Box
+* Bottles
 * Calibre
 * Davinci Resolve
 * Discord + Vencord
 * Drawing (quick image editor)
 * Extension Manager (Matthew Jakeman)
-* Firefox
 * Foliarte (e-book reader)
 * Footage (quick video editor)
-* KDE Connect
 * Kooha (screen recorder+)
 * Krita
 * LocalSend
 * Obsidian
 * OnlyOffice
-* Papers (modern documents viewer)
+* Papers 
 * qBittorrent
 * Spotify
 * Steam
 * Stremio
-* SyncThing GTK
+* SyncThing
 * Telegram
 * TickTick
 * Tweaks
+* Xournal++
+* Zen Browser
 </details>
 
 <details>
