@@ -327,6 +327,7 @@ After that, I would recommend to change the following things on `about:config`, 
 <details>
 <summary><h3>🖥️ Personal Applications List</h2></summary>
 
+* Amberol
 * Anki 
 * Black Box
 * Bottles
