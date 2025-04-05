@@ -295,6 +295,11 @@ For context, there is a different behavior (and less practical) than Windows on 
 That's why I found [this guide on GitHub](https://github.com/raelgc/win_us_intl) that has solutions to this problem. This worked perfectly for me (after logging off to take effect):
 `cd ~
 wget https://raw.githubusercontent.com/raelgc/win_us_intl/master/.XCompose`
+
+Also, there is [this other repository on Github](https://github.com/marcopaganini/gnome-cedilla-fix) with a script that fixes the cedilha key. 
+`wget -q https://raw.githubusercontent.com/marcopaganini/gnome-cedilla-fix/master/fix-cedilla -O fix-cedilla
+chmod 755 fix-cedilla
+./fix-cedilla`
 </details>
 
 
