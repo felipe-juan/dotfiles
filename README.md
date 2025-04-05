@@ -296,10 +296,11 @@ That's why I found [this guide on GitHub](https://github.com/raelgc/win_us_intl)
 `cd ~
 wget https://raw.githubusercontent.com/raelgc/win_us_intl/master/.XCompose`
 
-Also, there is [this other repository on Github](https://github.com/marcopaganini/gnome-cedilla-fix) with a script that fixes the cedilha key. 
-`wget -q https://raw.githubusercontent.com/marcopaganini/gnome-cedilla-fix/master/fix-cedilla -O fix-cedilla
-chmod 755 fix-cedilla
-./fix-cedilla`
+Also, you have to edit the environment (/etc/environment) file to get the cedilha key working by adding this:
+`export GTK_IM_MODULE=cedilla`
+`export QT_IM_MODULE=cedilla`
+
+
 </details>
 
 
