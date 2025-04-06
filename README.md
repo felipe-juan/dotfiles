@@ -336,7 +336,6 @@ After that, I would recommend to change the following things on `about:config`, 
 * Amberol
 * Anki 
 * Black Box
-* Bottles
 * Calibre
 * Davinci Resolve
 * Discord + Vencord
@@ -347,7 +346,9 @@ After that, I would recommend to change the following things on `about:config`, 
 * Kooha (screen recorder+)
 * Krita
 * LocalSend
+* Lutris
 * Obsidian
+* OneDrive
 * OnlyOffice
 * Papers 
 * qBittorrent
