@@ -341,16 +341,15 @@ After that, I would recommend to change the following things on `about:config`, 
 * Davinci Resolve
 * Discord + Vencord
 * Drawing (quick image editor)
-* Extension Manager (Matthew Jakeman)
+* Extension Manager (by Matthew Jakeman)
 * Eye of GNOME (better image viewer)
 * Foliarte (e-book reader)
-* Footage (quick video editor)
+* Identify
 * Kooha (screen recorder+)
 * Krita
 * LocalSend
 * Lutris
 * Obsidian
-* OneDrive
 * OnlyOffice
 * Papers 
 * qBittorrent
@@ -361,6 +360,7 @@ After that, I would recommend to change the following things on `about:config`, 
 * Telegram
 * TickTick
 * Tweaks
+* Video Trimmer (by Ivan Molodetskikh)
 * Xournal++
 * Zen Browser
 </details>
