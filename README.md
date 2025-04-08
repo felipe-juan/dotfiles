@@ -76,14 +76,13 @@ That said, I'd be happy if someone uses my dotfiles!
 * [Unite](https://extensions.gnome.org/extension/1287/unite/)
 
 ### 🪄 Usability-featured Extensions
-* [ArcMenu](https://extensions.gnome.org/extension/3628/arcmenu/)
+* [ArcMenu](https://extensions.gnome.org/extension/3628/arcmenu/) / [Logo Menu](https://extensions.gnome.org/extension/4451/logo-menu/)
 * [Color Picker](https://extensions.gnome.org/extension/3396/color-picker/)
 * [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)
 * [Gesture Improvements](https://extensions.gnome.org/extension/4245/gesture-improvements/)
 * [Pano - Clipboard Manager](https://extensions.gnome.org/extension/5278/pano/)
 * [Pop Shell](https://github.com/pop-os/shell) / [Forge](https://extensions.gnome.org/extension/4481/forge/)
 * [Quick Close in Overview](https://extensions.gnome.org/extension/352/middle-click-to-close-in-overview/)
-* [Tiling Assistant](https://extensions.gnome.org/extension/3733/tiling-assistant/)
 
 ## ⚙️ Softwares Settings
 If I seem to have left some settings behind, it's because I didn't change them, and otherwise it would be redundant.
@@ -189,13 +188,6 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 <summary><b>Rounded Window Corners</b></summary>
 
 ![](https://github.com/felipe-juan/dotfiles/blob/main/assets/rounded%20window%20corners%201.png)
-</details>
-
-
-<details>
-<summary><b>Tiling Assistant</b></summary>
-
-![](https://github.com/felipe-juan/dotfiles/blob/main/assets/tiling%20assistant%204.png)
 </details>
 
 ## ➕ Extra Stuff
