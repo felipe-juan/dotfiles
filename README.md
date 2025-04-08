@@ -261,8 +261,7 @@ By the way, related to the Window Switch recommend, I highly recommend disabling
 
 | Windows | Keybinding  |
 |---|---|
-|Restore Window| <kbd>Super</kbd> + <kbd>Down</kbd>|
-|Hide Window| <kbd>Super</kbd> + <kbd>Shift</kbd> + <kbd>Down</kbd>|
+|Hide Window| <kbd>Super</kbd> + <kbd>Down</kbd>|
 |Toggle Maximization State|<kbd>Super</kbd> + <kbd>Up</kbd>|
 
 | Tiling (with Pop Shell) | Keybinding  |
@@ -271,7 +270,7 @@ By the way, related to the Window Switch recommend, I highly recommend disabling
 
 |Custom|Keybinding |
 |---|---|
-|BlackBox `flatpak run com.raggesilver.BlackBox` | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd> |
+|Black Box `flatpak run com.raggesilver.BlackBox` | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd> |
 |System Monitor (aka Task Manager) `gnome-system-monitor` | <kbd>Shift</kbd> + <kbd>Shift</kbd> + <kbd>Esc</kbd>|
 </details>
 
