@@ -226,7 +226,8 @@ By the way, related to the Window Switch recommend, I highly recommend disabling
 
 | Launchers| Keybinding |
 |---|---|
-|Home Folder | <kbd>Super</kbd> + <kbd>E</kbd>|
+| Home Folder | <kbd>Super</kbd> + <kbd>E</kbd>|
+| Settings | <kbd>Super</kbd> + <kbd>I</kbd>|
 | Launch Email Client| `Disabled`|
 
 | Navigate Applications and Windows| Keybinding  |
