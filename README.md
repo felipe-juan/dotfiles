@@ -42,7 +42,7 @@ Kudos to the best clipboard manager ever (my beloved [Pano extension](https://gi
 > It's crucial to change several extensions if you want to achieve the same look, so please check out the screenshots on **[Software Settings](https://github.com/felipe-juan/dotfiles/blob/main/README.md#software-settings)** to see what I've changed.
 That said, I'd be happy if someone uses my dotfiles!
 
-![](https://github.com/felipe-juan/dotfiles/blob/main/assets/EVERYTHING%20EVERYWHApp HiderERE.png)
+![](https://github.com/felipe-juan/dotfiles/blob/main/assets/EVERYTHING%20EVERYWHERE.png)
 
 ## 🎨 Appearance Information
 
