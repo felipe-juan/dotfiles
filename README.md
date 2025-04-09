@@ -354,7 +354,7 @@ After that, I would recommend to change the following things on `about:config`, 
 * SyncThing
 * Telegram
 * TickTick
-* Tweaks / Refine
+* Tweaks + Refine
 * Video Trimmer (by Ivan Molodetskikh)
 * Xournal++
 * Zen Browser
