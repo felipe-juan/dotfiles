@@ -335,6 +335,7 @@ After that, I would recommend to change the following things on `about:config`, 
 * Calibre
 * Davinci Resolve
 * Discord + Vencord
+* Document Viewer
 * Drawing (quick image editor)
 * Extension Manager (by Matthew Jakeman)
 * Eye of GNOME (better image viewer)
@@ -346,7 +347,6 @@ After that, I would recommend to change the following things on `about:config`, 
 * Lutris
 * Obsidian
 * OnlyOffice
-* Papers 
 * qBittorrent
 * Spotify + SpotX
 * Steam
