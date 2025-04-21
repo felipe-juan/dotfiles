@@ -311,6 +311,7 @@ It's just way better to move a window instead placing the cursor at the right sp
 `gsettings set org.gnome.desktop.wm.preferences resize-with-right-button true`
 
 Kinda related - if you want to switch windows from all workspaces:
+
 `gsettings set org.gnome.shell.window-switcher current-workspace-only false`
 
 </details>
