@@ -224,6 +224,7 @@ By the way, related to the Window Switch recommend, I highly recommend disabling
 
 | Navigate Applications and Windows| Keybinding  |
 |---|---|
+| Launch and switch applications  | <kbd>Super</kbd> + <kbd>Space</kbd>  |
 | Switch Focus to Window  |`Disabled (all of them)`  |
 | Switch to workspace on the left |<kbd>Ctrl</kbd> + <kbd>Super</kbd> + <kbd>Left</kbd>  |
 | Switch to workspace on the right |<kbd>Ctrl</kbd> + <kbd>Super</kbd> + <kbd>Arrow</kbd>   |
