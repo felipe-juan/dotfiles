@@ -338,6 +338,7 @@ After that, I would recommend to change the following things on `about:config`, 
 * Anki 
 * Black Box
 * Calibre
+* Cozy (audiobook player)
 * Davinci Resolve
 * Discord + Vencord
 * Drawing (quick image editor)
