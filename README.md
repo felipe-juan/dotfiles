@@ -362,6 +362,7 @@ After that, I would recommend to change the following things on `about:config`, 
 * TickTick
 * Tweaks + Refine
 * Video Trimmer (by Ivan Molodetskikh)
+* VSCodium
 * Xournal++
 * Zen Browser
 </details>
