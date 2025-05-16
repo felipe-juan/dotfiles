@@ -346,7 +346,6 @@ After that, I would recommend to change the following things on `about:config`, 
 * Eye of GNOME (better image viewer)
 * Foliarte (e-book reader)
 * Identify
-* Kooha (screen recorder+)
 * Krita
 * LocalSend
 * Lutris
