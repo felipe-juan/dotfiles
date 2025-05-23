@@ -351,6 +351,7 @@ After that, I would recommend to change the following things on `about:config`, 
 * Lutris
 * Obsidian
 * OnlyOffice
+* OpenTabletDriver
 * qBittorrent
 * Papers
 * Spotify + SpotX
