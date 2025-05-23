@@ -343,9 +343,9 @@ After that, I would recommend to change the following things on `about:config`, 
 * Discord + Vencord
 * Drawing (quick image editor)
 * Extension Manager (by Matthew Jakeman)
-* Eye of GNOME (better image viewer)
 * Foliarte (e-book reader)
 * Identify
+* Image Viewer
 * Krita
 * LocalSend
 * Lutris
