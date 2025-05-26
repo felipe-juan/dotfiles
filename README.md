@@ -343,6 +343,7 @@ After that, I would recommend to change the following things on `about:config`, 
 * Discord + Vencord
 * Drawing (quick image editor)
 * Extension Manager (by Matthew Jakeman)
+* Frog (OCR text extractor)
 * Foliarte (e-book reader)
 * Identify
 * Image Viewer
