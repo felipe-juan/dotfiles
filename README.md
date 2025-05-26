@@ -347,6 +347,7 @@ After that, I would recommend to change the following things on `about:config`, 
 * Foliarte (e-book reader)
 * Identify
 * Image Viewer
+* Inkscape
 * Krita
 * LocalSend
 * Lutris
