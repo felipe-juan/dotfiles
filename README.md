@@ -290,7 +290,7 @@ By the way, related to the Window Switch recommend, I highly recommend disabling
 For context, there is a different behavior (and less practical) than Windows on the international keyboard. To type "acentos", you always have to press space before each key, even if the next key isn't a "compatible letter" (like a consoant). 
 
 That's why I found [this guide on GitHub](https://github.com/raelgc/win_us_intl) that has solutions to this problem. This worked perfectly for me (after logging off to take effect):
-`cd ~
+`cd ~ 
 wget https://raw.githubusercontent.com/raelgc/win_us_intl/master/.XCompose`
 
 Also, you have to edit the environment (/etc/environment) file to get the cedilha key working by adding this:
@@ -348,6 +348,7 @@ After that, I would recommend to change the following things on `about:config`, 
 * Identify
 * Image Viewer
 * Inkscape
+* Kdenlive
 * Krita
 * LocalSend
 * Lutris
