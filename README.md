@@ -353,6 +353,7 @@ After that, I would recommend to change the following things on `about:config`, 
 * LocalSend
 * Lutris
 * Obsidian
+* OBS Studio
 * OnlyOffice
 * OpenTabletDriver
 * qBittorrent
