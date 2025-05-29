@@ -337,6 +337,7 @@ After that, I would recommend to change the following things on `about:config`, 
 * Amberol
 * Anki 
 * Black Box
+* Bottles
 * Calibre
 * Cozy (audiobook player)
 * Davinci Resolve
@@ -351,7 +352,6 @@ After that, I would recommend to change the following things on `about:config`, 
 * Kdenlive
 * Krita
 * LocalSend
-* Lutris
 * Obsidian
 * OBS Studio
 * OnlyOffice
