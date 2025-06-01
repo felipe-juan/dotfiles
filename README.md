@@ -268,6 +268,7 @@ By the way, related to the Window Switch recommend, I highly recommend disabling
 |---|---|
 |Black Box `flatpak run com.raggesilver.BlackBox` | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd> |
 |System Monitor (aka Task Manager) `gnome-system-monitor` | <kbd>Shift</kbd> + <kbd>Shift</kbd> + <kbd>Esc</kbd>|
+|Zen Browser `flatpak run app.zen_browser.zen` | <kbd>Super</kbd> + <kbd>B</kbd>|
 </details>
 
 <details>
