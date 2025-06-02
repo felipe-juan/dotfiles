@@ -76,6 +76,7 @@ That said, I'd be happy if someone uses my dotfiles!
 * [Unite](https://extensions.gnome.org/extension/1287/unite/)
 
 ### 🪄 Usability-featured Extensions
+- [AppIndicator](https://extensions.gnome.org/extension/615/appindicator-support/)
 * [ArcMenu](https://extensions.gnome.org/extension/3628/arcmenu/) / [Logo Menu](https://extensions.gnome.org/extension/4451/logo-menu/)
 * [Color Picker](https://extensions.gnome.org/extension/3396/color-picker/)
 * [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)
