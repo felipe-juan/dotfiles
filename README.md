@@ -350,7 +350,6 @@ After that, I would recommend to change the following things on `about:config`, 
 * Identify
 * Image Viewer
 * Inkscape
-* Kdenlive
 * Krita
 * LocalSend
 * Obsidian
