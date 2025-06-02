@@ -341,7 +341,7 @@ After that, I would recommend to change the following things on `about:config`, 
 * Bottles
 * Calibre
 * Cozy (audiobook player)
-* Davinci Resolve
+* DaVinci Resolve
 * Discord + Vencord
 * Drawing (quick image editor)
 * Extension Manager (by Matthew Jakeman)
