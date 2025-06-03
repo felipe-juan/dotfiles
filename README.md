@@ -341,6 +341,7 @@ After that, I would recommend to change the following things on `about:config`, 
 * Black Box
 * Bottles
 * Calibre
+* Celluloid (video player)
 * Cozy (audiobook player)
 * DaVinci Resolve
 * Discord + Vencord
