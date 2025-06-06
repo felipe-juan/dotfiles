@@ -331,6 +331,9 @@ After that, I would recommend to change the following things on `about:config`, 
 `mousewheel.default.delta_multiplier_y` = 15
 
 `mousewheel.default.delta_multiplier_z` = 15
+
+Also, i personally prefer having the same kinda pinch-to-zoom but with my mouse. So:
+`mousewheel.with_control.action` = 5
 </details>
 
 <details>
