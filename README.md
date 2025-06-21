@@ -353,6 +353,7 @@ Also, i personally prefer having the same kinda pinch-to-zoom but with my mouse.
 * Frog (OCR text extractor)
 * Foliarte (e-book reader)
 * Gear Lever
+* Gradia
 * Identify
 * Image Viewer
 * Inkscape
