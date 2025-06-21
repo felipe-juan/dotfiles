@@ -352,6 +352,7 @@ Also, i personally prefer having the same kinda pinch-to-zoom but with my mouse.
 * Extension Manager (by Matthew Jakeman)
 * Frog (OCR text extractor)
 * Foliarte (e-book reader)
+* Gear Lever
 * Identify
 * Image Viewer
 * Inkscape
