@@ -346,7 +346,6 @@ Also, i personally prefer having the same kinda pinch-to-zoom but with my mouse.
 * Calibre
 * Celluloid (video player)
 * Cozy (audiobook player)
-* DaVinci Resolve
 * Discord + Vencord
 * Drawing (quick image editor)
 * Extension Manager (by Matthew Jakeman)
