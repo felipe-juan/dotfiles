@@ -266,10 +266,14 @@ By the way, related to the Window Switch recommend, I highly recommend disabling
 |Toggle Stacking Mode| <kbd>Super</kbd> + <kbd>Q</kbd>|
 
 |Custom|Keybinding |
-|---|---|
-|Black Box `flatpak run com.raggesilver.BlackBox` | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd> |
-|System Monitor (aka Task Manager) `gnome-system-monitor` | <kbd>Shift</kbd> + <kbd>Shift</kbd> + <kbd>Esc</kbd>|
-|Zen Browser `flatpak run app.zen_browser.zen` | <kbd>Super</kbd> + <kbd>B</kbd>|
+|---|---|---|
+|Black Box| `flatpak run com.raggesilver.BlackBox` | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd> |
+|System Monitor (aka Task Manager)| `gnome-system-monitor` | <kbd>Shift</kbd> + <kbd>Shift</kbd> + <kbd>Esc</kbd>|
+|Zen Browser |`flatpak run app.zen_browser.zen` | <kbd>Super</kbd> + <kbd>B</kbd>|
+</details>
+|Kasasa| `flatpak run io.github.kelvinnovais.Kasasa` | <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>S</kbd> |
+</details>
+|Gradia|`flatpak run be.alexandervanhee.gradia --screenshot=INTERACTIVE` | <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>G/kbd>|
 </details>
 
 <details>
