@@ -271,7 +271,7 @@ By the way, related to the Window Switch recommend, I highly recommend disabling
 |System Monitor (aka Task Manager)| `gnome-system-monitor` | <kbd>Shift</kbd> + <kbd>Shift</kbd> + <kbd>Esc</kbd>|
 |Zen Browser |`flatpak run app.zen_browser.zen` | <kbd>Super</kbd> + <kbd>B</kbd>|
 |Kasasa| `flatpak run io.github.kelvinnovais.Kasasa` | <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>S</kbd> |
-|Gradia|`flatpak run be.alexandervanhee.gradia --screenshot=INTERACTIVE` | <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>G/kbd>|
+|Gradia|`flatpak run be.alexandervanhee.gradia --screenshot=INTERACTIVE` | <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>G</kbd>|
 
 <details>
 <summary><h3>😎 Cool Terminal Commands</h2></summary>
