@@ -265,7 +265,7 @@ By the way, related to the Window Switch recommend, I highly recommend disabling
 |---|---|
 |Toggle Stacking Mode| <kbd>Super</kbd> + <kbd>Q</kbd>|
 
-|Custom|Keybinding |
+|Name| Command | Shortcut |
 |---|---|---|
 |Black Box| `flatpak run com.raggesilver.BlackBox` | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd> |
 |System Monitor (aka Task Manager)| `gnome-system-monitor` | <kbd>Shift</kbd> + <kbd>Shift</kbd> + <kbd>Esc</kbd>|
