@@ -8,7 +8,7 @@
   <img width="720" src="https://github.com/felipe-juan/dotfiles/blob/main/assets/video(1).gif">
 </p>
 
-<h1></h1>
+<h1>
 
 ### Table of Contents
 
@@ -29,7 +29,7 @@
   * [☑️ To-Do List](https://github.com/felipe-juan/dotfiles/#%EF%B8%8F-to-do-list)
 * [✨ Credits to](https://github.com/felipe-juan/dotfiles#credits-to)
 
-<h1></h1>
+</h1>
 
 # 🍚 Introduction
 This is my first rice ever! I wanted it to be aesthetically pleasing, but also very usable. It may still have some inconsistencies here and there. However, its current state is what I could have done without a massive time consuming effort. 
@@ -328,7 +328,7 @@ After that, I would recommend to change the following things on `about:config`, 
 
 `mousewheel.default.delta_multiplier_z` = 15
 
-Also, i personally prefer having the same kinda pinch-to-zoom but with my mouse. So:
+Also, I personally prefer having the same kinda pinch-to-zoom but with my mouse. So:
 `mousewheel.with_control.action` = 5
 </details>
 
@@ -375,8 +375,7 @@ Also, i personally prefer having the same kinda pinch-to-zoom but with my mouse.
 
 
 <details>
-  <summary><h3>☑️ To-Do List</h3></summary></details>
-
+  <summary><h3>☑️ To-Do List</h3></summary>
     - [x] Find a less generic wallpaper that fits (I'm not sure if the [keyboard switch one](https://github.com/felipe-juan/dotfiles/blob/main/wallpapers/wallpaper%20mechanical%20switch.png) is enough)
       - [This wallpaper](https://github.com/felipe-juan/dotfiles/blob/main/wallpapers/wallpaper_pool.png) will be my new default from now on. Although it's not as unpopular as I'd like it to be, it looks really nice with Rosé Pine.
     - [ ] Create a gallery showing what look like the:
@@ -389,6 +388,7 @@ Also, i personally prefer having the same kinda pinch-to-zoom but with my mouse.
       - In theory, anyone can have all my keybindings + tweaks/extensions settings if they move this file to ~/.config of the extension.
       - <img align="center" width="400" src="https://github.com/felipe-juan/dotfiles/blob/main/assets/extensions%20sync.png">
     - [ ] Replace the current showcase images with gifs instead (at least, of the overview); it'd be a nice touch
+</details>
 
 
 ## ✨ Credits to
