@@ -194,9 +194,7 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 ## ➕ Extra Stuff
 
 <details>
-  <summary>
-### 🌀 Spinning Girl (ASCII GIF on Terminal)
-  </summary>
+  <summary><h3>🌀 Spinning Girl (ASCII GIF on Terminal)</h3></summary>
 
 <p align="center">
   <img width="250" src="https://github.com/felipe-juan/dotfiles/blob/main/assets/spinning_fumo.gif">
