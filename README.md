@@ -274,6 +274,7 @@ By the way, related to the Window Switch recommend, I highly recommend disabling
 |Gradia|`flatpak run be.alexandervanhee.gradia --screenshot=INTERACTIVE` | <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>G</kbd>|
 
 <details>
+
 <summary><h3>😎 Cool Terminal Commands</h3></summary>
 
 * [asciiquarium](https://github.com/cmatsuoka/asciiquarium)
@@ -288,6 +289,7 @@ By the way, related to the Window Switch recommend, I highly recommend disabling
 </details>
 
 <details>
+
 <summary><h3>🌎 Better International Keyboard</h3></summary>
   
 For context, there is a different behavior (and less practical) than Windows on the international keyboard. To type "acentos", you always have to press space before each key, even if the next key isn't a "compatible letter" (like a consoant). 
@@ -320,6 +322,7 @@ Kinda related - if you want to switch windows from all workspaces:
 </details>
 
 <details>
+
 <summary><h3>🖱️ Firefox with Touchpad Gestures</h3></summary>
 Make sure you have a Firefox with Wayland enabled. There are a few ways to do that - installing the `firefox-wayland` package worked for me. 
 
@@ -338,8 +341,8 @@ Also, i personally prefer having the same kinda pinch-to-zoom but with my mouse.
 </details>
 
 <details>
-<summary><h3>🖥️ Personal Applications List</h2></summary>
 
+<summary><h3>🖥️ Personal Applications List</h2></summary>
 * Amberol
 * Anki 
 * Black Box
@@ -379,6 +382,7 @@ Also, i personally prefer having the same kinda pinch-to-zoom but with my mouse.
 </details>
 
 <details>
+
 <summary><h3>☑️ To-Do List</h3></summary>
   
 - [x] Find a less generic wallpaper that fits (I'm not sure if the [keyboard switch one](https://github.com/felipe-juan/dotfiles/blob/main/wallpapers/wallpaper%20mechanical%20switch.png) is enough)
