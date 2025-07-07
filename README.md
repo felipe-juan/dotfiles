@@ -275,15 +275,15 @@ By the way, related to the Window Switch recommend, I highly recommend disabling
 
 <details>
   <summary><h3>😎 Cool Terminal Commands)</h3></summary>
-* [asciiquarium](https://github.com/cmatsuoka/asciiquarium)
-* [btop](https://github.com/aristocratos/btop)
-* [cava](https://github.com/karlstav/cava)
-* [cbonsai](https://github.com/hortinstein/cbonsai)
-* [cmatrix](https://github.com/abishekvashok/cmatrix)
-* [lavat](https://github.com/AngelJumbo/lavat)
-* [nyancat](https://github.com/klange/nyancat)
-* [pipes.sh](https://github.com/pipeseroni/pipes.sh)
-* [oneko](https://github.com/glreno/oneko)
+  * [asciiquarium](https://github.com/cmatsuoka/asciiquarium)
+  * [btop](https://github.com/aristocratos/btop)
+  * [cava](https://github.com/karlstav/cava)
+  * [cbonsai](https://github.com/hortinstein/cbonsai)
+  * [cmatrix](https://github.com/abishekvashok/cmatrix)
+  * [lavat](https://github.com/AngelJumbo/lavat)
+  * [nyancat](https://github.com/klange/nyancat)
+  * [pipes.sh](https://github.com/pipeseroni/pipes.sh)
+  * [oneko](https://github.com/glreno/oneko)
 </details>
 
 <details>
@@ -335,42 +335,44 @@ Also, i personally prefer having the same kinda pinch-to-zoom but with my mouse.
 
 <details>
   <summary><h3>🖥️ Personal Applications List</h3></summary>
-* Amberol
-* Anki 
-* Black Box
-* Bottles
-* Calibre
-* Celluloid (video player)
-* Cozy (audiobook player)
-* Discord + Vencord
-* Drawing (quick image editor)
-* Extension Manager (by Matthew Jakeman)
-* Frog (OCR text extractor)
-* Foliarte (e-book reader)
-* Gear Lever
-* Gradia
-* Identify
-* Image Viewer
-* Inkscape
-* Krita
-* LocalSend
-* Obsidian
-* OBS Studio
-* OnlyOffice
-* OpenTabletDriver
-* qBittorrent
-* Papers
-* Spotify + SpotX
-* Steam
-* Stremio
-* SyncThing
-* Telegram
-* TickTick
-* Tweaks + Refine
-* Video Trimmer (by Ivan Molodetskikh)
-* VSCodium
-* Xournal++
-* Zen Browser
+  * Amberol
+  * Anki 
+  * Black Box
+  * Bottles
+  * Calibre
+  * Celluloid (video player)
+  * Cozy (audiobook player)
+  * Discord + Vencord
+  * Drawing (quick image editor)
+  * Extension Manager (by Matthew Jakeman)
+  * Frog (OCR text extractor)
+  * Foliarte (e-book reader)
+  * Gear Lever
+  * Gradia
+  * Identify
+  * Image Viewer
+  * Inkscape
+  * Krita
+  * LocalSend
+  * Obsidian
+  * OBS Studio
+  * OnlyOffice
+  * OpenTabletDriver
+  * qBittorrent
+  * Papers
+  * Spotify + SpotX
+  * Steam
+  * Stremio
+  * SyncThing
+  * Telegram
+  * TickTick
+  * Tweaks + Refine
+  * Video Trimmer (by Ivan Molodetskikh)
+  * VSCodium
+  * Xournal++
+  * Zen Browser
+</details>
+
 
 <details>
   <summary><h3>☑️ To-Do List</h3></summary>
