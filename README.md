@@ -192,8 +192,7 @@ If I seem to have left some settings behind, it's because I didn't change them, 
 </details>
 
 ## ➕ Extra Stuff
-<details>
-<summary><h3>🌀 Spinning Girl (ASCII GIF on Terminal)</h3></summary>
+### 🌀 Spinning Girl (ASCII GIF on Terminal)
 
 <p align="center">
   <img width="250" src="https://github.com/felipe-juan/dotfiles/blob/main/assets/spinning_fumo.gif">
@@ -206,13 +205,10 @@ I just used the amazing [ascii-image-converter](https://github.com/TheZoraiz/asc
 If I remember correctly, this was the command I used:
 
 `ascii-image-converter path/to/spinning_fumo.gif -b --dither -C`
-</details>
 
+### ⌨️ Keyboard Shortcuts
 
-<details>
-<summary><h3>⌨️ Keyboard Shortcuts</h3></summary>
-
-  Since I'm coming from Windows, most of the shortcuts I made were just the same as they were there. I highly recommend you do the same if you used these shortcuts on Windows too!
+Since I'm coming from Windows, most of the shortcuts I made were just the same as they were there. I highly recommend you do the same if you used these shortcuts on Windows too!
   
 By the way, related to the Window Switch recommend, I highly recommend disabling switching for the only current workspace, if you care for that:
 `gsettings set org.gnome.shell.window-switcher current-workspace-only false`
@@ -273,10 +269,7 @@ By the way, related to the Window Switch recommend, I highly recommend disabling
 |Kasasa| `flatpak run io.github.kelvinnovais.Kasasa` | <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>S</kbd> |
 |Gradia|`flatpak run be.alexandervanhee.gradia --screenshot=INTERACTIVE` | <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>G</kbd>|
 
-<details>
-
-<summary><h3>😎 Cool Terminal Commands</h3></summary>
-
+### 😎 Cool Terminal Commands
 * [asciiquarium](https://github.com/cmatsuoka/asciiquarium)
 * [btop](https://github.com/aristocratos/btop)
 * [cava](https://github.com/karlstav/cava)
@@ -286,12 +279,8 @@ By the way, related to the Window Switch recommend, I highly recommend disabling
 * [nyancat](https://github.com/klange/nyancat)
 * [pipes.sh](https://github.com/pipeseroni/pipes.sh)
 * [oneko](https://github.com/glreno/oneko)
-</details>
 
-<details>
-
-<summary><h3>🌎 Better International Keyboard</h3></summary>
-  
+### 🌎 Better International Keyboard
 For context, there is a different behavior (and less practical) than Windows on the international keyboard. To type "acentos", you always have to press space before each key, even if the next key isn't a "compatible letter" (like a consoant). 
 
 That's why I found [this guide on GitHub](https://github.com/raelgc/win_us_intl) that has solutions to this problem. This worked perfectly for me (after logging off to take effect):
@@ -302,13 +291,7 @@ Also, you have to edit the environment (/etc/environment) file to get the cedilh
 `export GTK_IM_MODULE=cedilla`
 `export QT_IM_MODULE=cedilla`
 
-
-</details>
-
-
-<details>
-<summary><h3>🖦 Alt + Drag to Move the Window</h3></summary>
-
+### >🖦 Alt + Drag to Move the Window
 It's just way better to move a window instead placing the cursor at the right spot. 
 
 `gsettings set org.gnome.desktop.wm.preferences mouse-button-modifier '<Alt>'`
@@ -319,11 +302,7 @@ Kinda related - if you want to switch windows from all workspaces:
 
 `gsettings set org.gnome.shell.window-switcher current-workspace-only false`
 
-</details>
-
-<details>
-
-<summary><h3>🖱️ Firefox with Touchpad Gestures</h3></summary>
+### 🖱️ Firefox with Touchpad Gestures
 Make sure you have a Firefox with Wayland enabled. There are a few ways to do that - installing the `firefox-wayland` package worked for me. 
 
 You can also get it enabled by default on [Firefox Nightly](https://github.com/Linux-Is-Best/Firefox-automatic-install-for-Linux), though I wouldn't recommend to use a under heavy development browser just for something like this.
@@ -338,11 +317,8 @@ After that, I would recommend to change the following things on `about:config`, 
 
 Also, i personally prefer having the same kinda pinch-to-zoom but with my mouse. So:
 `mousewheel.with_control.action` = 5
-</details>
 
-<details>
-
-<summary><h3>🖥️ Personal Applications List</h2></summary>
+### 🖥️ Personal Applications List
 * Amberol
 * Anki 
 * Black Box
@@ -379,12 +355,8 @@ Also, i personally prefer having the same kinda pinch-to-zoom but with my mouse.
 * VSCodium
 * Xournal++
 * Zen Browser
-</details>
 
-<details>
-
-<summary><h3>☑️ To-Do List</h3></summary>
-  
+### ☑️ To-Do List
 - [x] Find a less generic wallpaper that fits (I'm not sure if the [keyboard switch one](https://github.com/felipe-juan/dotfiles/blob/main/wallpapers/wallpaper%20mechanical%20switch.png) is enough)
   - [This wallpaper](https://github.com/felipe-juan/dotfiles/blob/main/wallpapers/wallpaper_pool.png) will be my new default from now on. Although it's not as unpopular as I'd like it to be, it looks really nice with Rosé Pine.
 - [ ] Create a gallery showing what look like the:
@@ -397,7 +369,6 @@ Also, i personally prefer having the same kinda pinch-to-zoom but with my mouse.
   - In theory, anyone can have all my keybindings + tweaks/extensions settings if they move this file to ~/.config of the extension.
   - <img align="center" width="400" src="https://github.com/felipe-juan/dotfiles/blob/main/assets/extensions%20sync.png">
 - [ ] Replace the current showcase images with gifs instead (at least, of the overview); it'd be a nice touch
-</details>
 
 ## ✨ Credits to
 * [u/Steve_Petrov](https://www.reddit.com/r/unixporn/comments/z9iz83/gnome_what_a_funky/) for the neofetch config and idea!
