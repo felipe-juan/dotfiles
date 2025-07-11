@@ -379,7 +379,7 @@ Also, I personally prefer having the same kinda pinch-to-zoom but with my mouse.
   * VSCodium
   * Xournal++
   * Zen Browser
-  * 
+    
 </details>
 
 
