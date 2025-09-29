@@ -72,6 +72,7 @@ That said, I'd be happy if someone uses my dotfiles!
 * [Gnome 4x UI Improvements](https://extensions.gnome.org/extension/4158/gnome-40-ui-improvements/)
 * [Just Perfection](https://extensions.gnome.org/extension/3843/just-perfection/)
 * [Rounded Window Corners Reborn](https://extensions.gnome.org/extension/7048/rounded-window-corners-reborn/)
+* [Search Light](https://extensions.gnome.org/extension/5489/search-light/)
 * [Transparent Window Moving](https://extensions.gnome.org/extension/1446/transparent-window-moving/)
 * [Unite](https://extensions.gnome.org/extension/1287/unite/)
 
