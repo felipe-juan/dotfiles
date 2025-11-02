@@ -352,7 +352,6 @@ Also, I personally prefer having the same kinda pinch-to-zoom but with my mouse.
   * Calibre
   * Celluloid (video player)
   * Cozy (audiobook player)
-  * Discord + Vencord
   * Drawing (quick image editor)
   * Extension Manager (by Matthew Jakeman)
   * Frog (OCR text extractor)
@@ -362,6 +361,8 @@ Also, I personally prefer having the same kinda pinch-to-zoom but with my mouse.
   * Identify
   * Image Viewer
   * Inkscape
+  * Kdenklive
+  * Komikku
   * Krita
   * LocalSend
   * Obsidian
@@ -374,10 +375,11 @@ Also, I personally prefer having the same kinda pinch-to-zoom but with my mouse.
   * Steam
   * Stremio
   * SyncThing
-  * Telegram
-  * TickTick
+  * Todoist
   * Tweaks + Refine
+  * Vesktop
   * Video Trimmer (by Ivan Molodetskikh)
+  * Virtual Machine Manager
   * VSCodium
   * Xournal++
   * Zen Browser
