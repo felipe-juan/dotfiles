@@ -354,6 +354,7 @@ Also, I personally prefer having the same kinda pinch-to-zoom but with my mouse.
   * Cozy (audiobook player)
   * Drawing (quick image editor)
   * Extension Manager (by Matthew Jakeman)
+  * Flatseal
   * Frog (OCR text extractor)
   * Foliarte (e-book reader)
   * Gear Lever
