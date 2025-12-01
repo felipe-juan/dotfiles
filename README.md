@@ -253,6 +253,7 @@ By the way, related to the Window Switch recommend, I highly recommend disabling
 |System|Keybinding |
 |---|---|
 |Lock screen | <kbd>Super</kbd> + <kbd>L</kbd> |
+|Lock out | <kbd>Super</kbd> + <kbd>X</kbd> |
 |Show All Apps| <kbd>Super</kbd> + <kbd>A</kbd> |
 |Show the Notification List | <kbd>Super</kbd> + <kbd>N</kbd> |
 |Show the Overview | <kbd>Super</kbd> + <kbd>Tab</kbd> |
@@ -274,6 +275,7 @@ By the way, related to the Window Switch recommend, I highly recommend disabling
 |Obsidian|`flatpak run md.obsidian.Obsidian`|<kbd>Super</kbd> + <kbd>O</kbd>|
 |Kasasa| `flatpak run io.github.kelvinnovais.Kasasa` | <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>S</kbd> |
 |Gradia|`flatpak run be.alexandervanhee.gradia --screenshot=INTERACTIVE` | <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>G</kbd>|
+| Suspend Function | <kbd>Shift</kbd> + <kbd>Super</kbd> + <kbd>X</kbd>|
 </details>
 
 <details>
