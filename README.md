@@ -82,7 +82,7 @@ That said, I'd be happy if someone uses my dotfiles!
 * [Color Picker](https://extensions.gnome.org/extension/3396/color-picker/)
 * [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)
 * [Gesture Improvements](https://extensions.gnome.org/extension/4245/gesture-improvements/)
-* [Pano - Clipboard Manager](https://extensions.gnome.org/extension/5278/pano/)
+* [Copyous](https://extensions.gnome.org/extension/8834/copyous/) ~~[Pano - Clipboard Manager](https://extensions.gnome.org/extension/5278/pano/)~~
 * [Pop Shell](https://github.com/pop-os/shell) / [Forge](https://extensions.gnome.org/extension/4481/forge/)
 * [Quick Close in Overview](https://extensions.gnome.org/extension/352/middle-click-to-close-in-overview/)
 
@@ -411,7 +411,7 @@ Also, I personally prefer having the same kinda pinch-to-zoom but with my mouse.
 
 
 ## ✨ Credits to
-* [u/Steve_Petrov](https://www.reddit.com/r/unixporn/comments/z9iz83/gnome_what_a_funky/) for the neofetch config and idea!
-* [@Aylur](https://github.com/Aylur) for inspiration and making those awesome widgets!
-* [@oae](https://github.com/oae/) for creating the best clipboard software I ever used!
-* A lot of people on the internet whom I also took little inspirations from!
+* [u/Steve_Petrov](https://www.reddit.com/r/unixporn/comments/z9iz83/gnome_what_a_funky/) for the neofetch config and idea
+* [@Aylur](https://github.com/Aylur) for inspiration and making those awesome widgets
+* [@oae](https://github.com/oae/) for creating the best clipboard software I ever used (Pano) and [@boerdereinar](https://github.com/boerdereinar) for continuing and making it even better (Copyous)
+* A lot of people on the internet whom I also took little inspirations from
