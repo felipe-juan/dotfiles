@@ -253,7 +253,7 @@ By the way, related to the Window Switch recommend, I highly recommend disabling
 |System|Keybinding |
 |---|---|
 |Lock screen | <kbd>Super</kbd> + <kbd>L</kbd> |
-|Lock out | <kbd>Super</kbd> + <kbd>X</kbd> |
+|Log out | <kbd>Super</kbd> + <kbd>X</kbd> |
 |Show All Apps| <kbd>Super</kbd> + <kbd>A</kbd> |
 |Show the Notification List | <kbd>Super</kbd> + <kbd>N</kbd> |
 |Show the Overview | <kbd>Super</kbd> + <kbd>Tab</kbd> |
@@ -275,7 +275,7 @@ By the way, related to the Window Switch recommend, I highly recommend disabling
 |Obsidian|`flatpak run md.obsidian.Obsidian`|<kbd>Super</kbd> + <kbd>O</kbd>|
 |Kasasa| `flatpak run io.github.kelvinnovais.Kasasa` | <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>S</kbd> |
 |Gradia|`flatpak run be.alexandervanhee.gradia --screenshot=INTERACTIVE` | <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>G</kbd>|
-| Suspend Function | <kbd>Shift</kbd> + <kbd>Super</kbd> + <kbd>X</kbd>|
+| Suspend Function |`systemctl suspend` | <kbd>Shift</kbd> + <kbd>Super</kbd> + <kbd>X</kbd>|
 </details>
 
 <details>
@@ -348,9 +348,11 @@ Also, I personally prefer having the same kinda pinch-to-zoom but with my mouse.
   <summary><h3>🖥️ Personal Applications List</h3></summary>
   
   * Amberol
-  * Anki 
+  * Anki
+  * Bazaar
   * Black Box
   * Bottles
+  * Boxes
   * Calibre
   * Celluloid (video player)
   * Cozy (audiobook player)
@@ -382,7 +384,6 @@ Also, I personally prefer having the same kinda pinch-to-zoom but with my mouse.
   * Tweaks + Refine
   * Vesktop
   * Video Trimmer (by Ivan Molodetskikh)
-  * Virtual Machine Manager
   * VSCodium
   * Xournal++
   * Zen Browser
