@@ -376,12 +376,12 @@ Also, I personally prefer having the same kinda pinch-to-zoom but with my mouse.
   * OBS Studio
   * OnlyOffice
   * OpenTabletDriver
+  * Planify
   * qBittorrent
   * Spotify + SpotX
   * Steam
   * Stremio
   * SyncThing
-  * Todoist
   * Tweaks 
   * Vesktop
   * Video Trimmer 
