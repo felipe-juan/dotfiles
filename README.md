@@ -270,7 +270,7 @@ By the way, related to the Window Switch recommend, I highly recommend disabling
 | Name | Command | Shortcut |
 |---|---|---|
 |Black Box| `flatpak run com.raggesilver.BlackBox` | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd> |
-|Mission Center (aka Task Manager)| `gnome-system-monitor` | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Esc</kbd>|
+|Mission Center (aka Task Manager)| `flatpak run io.missioncenter.MissionCenter` | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Esc</kbd>|
 |Zen Browser |`flatpak run app.zen_browser.zen` | <kbd>Super</kbd> + <kbd>B</kbd>|
 |Obsidian|`flatpak run md.obsidian.Obsidian`|<kbd>Super</kbd> + <kbd>O</kbd>|
 |Kasasa| `flatpak run io.github.kelvinnovais.Kasasa` | <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>S</kbd> |
