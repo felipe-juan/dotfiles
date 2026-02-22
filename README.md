@@ -276,6 +276,7 @@ By the way, related to the Window Switch recommend, I highly recommend disabling
 |Kasasa| `flatpak run io.github.kelvinnovais.Kasasa` | <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>S</kbd> |
 |Gradia|`flatpak run be.alexandervanhee.gradia --screenshot=INTERACTIVE` | <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>G</kbd>|
 | Suspend Function |`systemctl suspend` | <kbd>Shift</kbd> + <kbd>Super</kbd> + <kbd>X</kbd>|
+| Log Out | `gnome-session-quit --no-prompt` |<kbd>Super</kbd> + <kbd>X</kbd> |
 </details>
 
 <details>
